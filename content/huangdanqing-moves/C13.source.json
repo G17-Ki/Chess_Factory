@@ -1,0 +1,259 @@
+{
+  "course_id": "C13",
+  "title": "黑左马盘河如何应对",
+  "opening_node_ids": [
+    "ZP-PFM-JQB-ZMPH"
+  ],
+  "status": "in_progress",
+  "source": {
+    "transcript": "/mnt/c/Users/260010122/Desktop/Gaoyq工作/象棋课程/文字提取/13、黑左马盘河如何应对？_原文.md",
+    "video": "/mnt/c/Users/260010122/Desktop/Gaoyq工作/象棋课程/1.布局一点通/13、黑左马盘河如何应对？.mp4",
+    "video_format": "MPEG-TS / H.264 / AAC（文件扩展名为 .mp4）",
+    "video_review": "本轮已按转录分段并抽取课程关键帧；逐着视频复核尚未全部完成，未核分支video_checked=false且complete=false。",
+    "engine_evaluation": "未运行 Pikafish，无引擎评分"
+  },
+  "pending_demonstrations": [
+    "直接冲7卒后红退车抓马，黑拱卒、回马、马蹬兵、平炮与红马七进六的完整对比。",
+    "黑先飞象后红五九炮，黑冲卒、红退车抓马、黑回马、对车及红车压马的完整主线。",
+    "横车急进中兵线红退车抓马时，黑马6进5、车1平7、卒7平6及炮打底的完整战术。",
+    "横车急进中兵线红平车抓马后黑拱卒、红兵过河、将军吃马及黑出车的连续次序。",
+    "稳健车二平四抓马后红马七进六、攻击中卒及炮八平七/平六的出子续段。"
+  ],
+  "variations": [
+    {
+      "variation_id": "HDQ-C13-00",
+      "title": "黑左马盘河与红马八进七",
+      "parent_variation_id": null,
+      "source_start": "00:33",
+      "source_end": "01:49",
+      "moves": [
+        "h2e2",
+        "h9g7",
+        "h0g2",
+        "i9h9",
+        "i0h0",
+        "g6g5",
+        "h0h6",
+        "b9c7",
+        "c3c4",
+        "g7f5",
+        "b0c2"
+      ],
+      "source_quote": "此时走这个马七进六……这个河沟马我们称它为盘河马……红方此时就可以直接马八进七上正马。",
+      "source_explanation": "黑马7进6盘河，红马八进七加快出子，黑有直接冲卒、飞象和起横车三种结构；01:55画面已核。",
+      "course_endpoint": "book",
+      "provenance": "course_video",
+      "uncertainties": [],
+      "verification": {
+        "video_checked": true,
+        "reviewer_checked": false
+      },
+      "complete": true
+    },
+    {
+      "variation_id": "HDQ-C13-01",
+      "title": "红车二退二偏软与黑送7卒",
+      "parent_variation_id": "HDQ-C13-00",
+      "parent_ply": 10,
+      "source_start": "01:23",
+      "source_end": "01:49",
+      "moves": [
+        "h6h4",
+        "g5g4"
+      ],
+      "source_quote": "如果红方要是害怕黑方卒七进一，走车二退二的话……黑方接下来可以把这个七卒随时可以送掉。",
+      "source_explanation": "父变化取至黑马7进6；红车二退二，黑卒7进1送卒，准备平炮牵制。",
+      "course_endpoint": "middlegame",
+      "provenance": "course_transcript",
+      "uncertainties": [],
+      "verification": {
+        "video_checked": false,
+        "reviewer_checked": false
+      },
+      "complete": false
+    },
+    {
+      "variation_id": "HDQ-C13-02",
+      "title": "黑直接冲7卒与红车二退一",
+      "parent_variation_id": "HDQ-C13-00",
+      "source_start": "02:48",
+      "source_end": "03:49",
+      "moves": [
+        "g5g4",
+        "h6h5",
+        "g4g3"
+      ],
+      "source_quote": "首先我们先来看一下这个直接冲七卒……我可以随时退一步车……比如说你拱掉我……我们可以大家演变一下。",
+      "source_explanation": "黑卒7进1，红车二退一保留车炮牵制，黑卒再进吃三兵；红方攻击中路的后续待核。",
+      "course_endpoint": "middlegame",
+      "provenance": "course_transcript",
+      "uncertainties": [],
+      "verification": {
+        "video_checked": false,
+        "reviewer_checked": false
+      },
+      "complete": false
+    },
+    {
+      "variation_id": "HDQ-C13-03",
+      "title": "黑冲卒后先飞象被红车吃卒",
+      "parent_variation_id": "HDQ-C13-00",
+      "source_start": "04:58",
+      "source_end": "05:26",
+      "moves": [
+        "g5g4",
+        "h6h5",
+        "c9e7",
+        "h5g5"
+      ],
+      "source_quote": "如果黑方不拱卒，比如说我先飞一个象……如果你要是先飞象，那我就把你的卒白白打掉了。",
+      "source_explanation": "黑冲卒后不继续拱而飞象，红车二平三吃过河卒。",
+      "course_endpoint": "middlegame",
+      "provenance": "reconstructed",
+      "uncertainties": [
+        "红车吃卒坐标需视频确认。"
+      ],
+      "verification": {
+        "video_checked": false,
+        "reviewer_checked": false
+      },
+      "complete": false
+    },
+    {
+      "variation_id": "HDQ-C13-04",
+      "title": "黑飞象巩固中路与红五九炮出车",
+      "parent_variation_id": "HDQ-C13-00",
+      "source_start": "07:24",
+      "source_end": "08:51",
+      "moves": [
+        "c9e7",
+        "b2a2",
+        "a9b9",
+        "a0b0"
+      ],
+      "source_quote": "黑方还有一路下法，就是飞象……给大家推荐一路比较理想的功法，就是用这个五九炮……你先出车，我也先出车。",
+      "source_explanation": "黑象3进5，红炮八平九，黑车1平2，红车九平八形成两侧牵制。",
+      "course_endpoint": "book",
+      "provenance": "course_transcript",
+      "uncertainties": [],
+      "verification": {
+        "video_checked": false,
+        "reviewer_checked": false
+      },
+      "complete": false
+    },
+    {
+      "variation_id": "HDQ-C13-05",
+      "title": "飞象五九炮后黑冲卒、红退车抓马",
+      "parent_variation_id": "HDQ-C13-04",
+      "source_start": "08:51",
+      "source_end": "10:04",
+      "moves": [
+        "g5g4",
+        "h6h5"
+      ],
+      "source_quote": "黑方在这个地方一般都会选择冲七卒了……冲七卒的话……就退车抓马，保留牵制这个车炮。",
+      "source_explanation": "黑冲7卒，红车二退一抓马并保持对左侧车炮的牵制。",
+      "course_endpoint": "middlegame",
+      "provenance": "course_transcript",
+      "uncertainties": [],
+      "verification": {
+        "video_checked": false,
+        "reviewer_checked": false
+      },
+      "complete": false
+    },
+    {
+      "variation_id": "HDQ-C13-06",
+      "title": "黑车1进1起横车与红兵五进一",
+      "parent_variation_id": "HDQ-C13-00",
+      "source_start": "10:48",
+      "source_end": "12:16",
+      "moves": [
+        "a9a8",
+        "e3e4",
+        "g5g4"
+      ],
+      "source_quote": "就是走这个车一进一起横车……红方其中有一种功法非常激烈，就是走兵五进一……黑方就只能拱卒了。",
+      "source_explanation": "黑起横车准备车1平7，红兵五进一，黑卒7进1。",
+      "course_endpoint": "middlegame",
+      "provenance": "course_transcript",
+      "uncertainties": [],
+      "verification": {
+        "video_checked": false,
+        "reviewer_checked": false
+      },
+      "complete": false
+    },
+    {
+      "variation_id": "HDQ-C13-07",
+      "title": "急进中兵后红退车与黑马6进5",
+      "parent_variation_id": "HDQ-C13-06",
+      "source_start": "12:16",
+      "source_end": "13:53",
+      "moves": [
+        "h6h5",
+        "f5e3"
+      ],
+      "source_quote": "这个时候退车抓马就不好了……他直接把你的兵登了。",
+      "source_explanation": "红车二退一，黑马6进5至e3，课程认为退车易受车1平7战术利用；马吃兵的具体对象待核。",
+      "course_endpoint": "middlegame",
+      "provenance": "reconstructed",
+      "uncertainties": [
+        "黑马6进5落点与吃兵关系需视频确认。"
+      ],
+      "verification": {
+        "video_checked": false,
+        "reviewer_checked": false
+      },
+      "complete": false
+    },
+    {
+      "variation_id": "HDQ-C13-08",
+      "title": "急进中兵后红平车抓马与黑马6进5",
+      "parent_variation_id": "HDQ-C13-06",
+      "source_start": "13:53",
+      "source_end": "14:33",
+      "moves": [
+        "h6f6",
+        "f5e3",
+        "c2e3"
+      ],
+      "source_quote": "红方不退车，还有一种选择就是平车抓马……这个时候你再登就不一样了……你再登我就拱了。",
+      "source_explanation": "红车二平四抓马，黑马6进5，红马七进五吃马；后续冲卒与红兵过河待核。",
+      "course_endpoint": "middlegame",
+      "provenance": "reconstructed",
+      "uncertainties": [
+        "红方吃马还是拱兵需视频确认。"
+      ],
+      "verification": {
+        "video_checked": false,
+        "reviewer_checked": false
+      },
+      "complete": false
+    },
+    {
+      "variation_id": "HDQ-C13-09",
+      "title": "黑起横车后红车二平四稳健抓马",
+      "parent_variation_id": "HDQ-C13-00",
+      "source_start": "15:53",
+      "source_end": "16:20",
+      "moves": [
+        "a9a8",
+        "h6f6",
+        "f5e3",
+        "c2e3"
+      ],
+      "source_quote": "红方也有一步稳健的选择，就是走车二平四抓马……让你蹬掉我，我跳盘河马，下手蹬你的中卒。",
+      "source_explanation": "红直接平车抓马，黑马6进5后红马七进五交换；后续攻击中卒的计划尚未续入。",
+      "course_endpoint": "middlegame",
+      "provenance": "course_transcript",
+      "uncertainties": [],
+      "verification": {
+        "video_checked": false,
+        "reviewer_checked": false
+      },
+      "complete": false
+    }
+  ]
+}

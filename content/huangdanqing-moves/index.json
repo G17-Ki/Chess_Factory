@@ -1,0 +1,451 @@
+{
+  "course": "黄丹青《布局一点通》",
+  "schema": "每课同时保留 .source.json（人工来源）与 .json（规则生成的中文记谱和逐步 FEN）",
+  "source_missing": [
+    {
+      "course_id": "C01",
+      "reason": "未提供转录或视频，不推测内容"
+    }
+  ],
+  "notes": [
+    "本工作区为纯棋谱资料库，不含 App、持久构建脚本或 Pikafish 引擎评分。",
+    "legal/fen 校验使用 @pikafish-js/rules@1.0.0 实际运行；各课 validation.txt 为运行记录。",
+    "索引由临时校验器生成；只有满足补充记录第2节全部条件的课程才标 complete。"
+  ],
+  "courses": [
+    {
+      "course_id": "C02",
+      "status": "concept",
+      "file": null,
+      "variation_count": 0,
+      "move_count": 0
+    },
+    {
+      "course_id": "C03",
+      "status": "complete",
+      "file": "C03.json",
+      "source_file": "C03.source.json",
+      "validation_file": "C03-validation.txt",
+      "variation_count": 13,
+      "move_count": 39,
+      "complete_variation_count": 13
+    },
+    {
+      "course_id": "C04",
+      "status": "complete",
+      "file": "C04.json",
+      "source_file": "C04.source.json",
+      "validation_file": "C04-validation.txt",
+      "variation_count": 6,
+      "move_count": 45,
+      "complete_variation_count": 6
+    },
+    {
+      "course_id": "C05",
+      "status": "complete",
+      "file": "C05.json",
+      "source_file": "C05.source.json",
+      "validation_file": "C05-validation.txt",
+      "variation_count": 9,
+      "move_count": 40,
+      "complete_variation_count": 9
+    },
+    {
+      "course_id": "C06",
+      "status": "complete",
+      "file": "C06.json",
+      "source_file": "C06.source.json",
+      "validation_file": "C06-validation.txt",
+      "variation_count": 9,
+      "move_count": 62,
+      "complete_variation_count": 9
+    },
+    {
+      "course_id": "C07",
+      "status": "complete",
+      "file": "C07.json",
+      "source_file": "C07.source.json",
+      "validation_file": "C07-validation.txt",
+      "variation_count": 8,
+      "move_count": 56,
+      "complete_variation_count": 8
+    },
+    {
+      "course_id": "C08",
+      "status": "in_progress",
+      "file": "C08.json",
+      "source_file": "C08.source.json",
+      "validation_file": "C08-validation.txt",
+      "variation_count": 12,
+      "move_count": 53,
+      "complete_variation_count": 12
+    },
+    {
+      "course_id": "C09",
+      "status": "in_progress",
+      "file": "C09.json",
+      "source_file": "C09.source.json",
+      "validation_file": "C09-validation.txt",
+      "variation_count": 13,
+      "move_count": 57,
+      "complete_variation_count": 1
+    },
+    {
+      "course_id": "C10",
+      "status": "in_progress",
+      "file": "C10.json",
+      "source_file": "C10.source.json",
+      "validation_file": "C10-validation.txt",
+      "variation_count": 7,
+      "move_count": 38,
+      "complete_variation_count": 2
+    },
+    {
+      "course_id": "C11",
+      "status": "in_progress",
+      "file": "C11.json",
+      "source_file": "C11.source.json",
+      "validation_file": "C11-validation.txt",
+      "variation_count": 10,
+      "move_count": 42,
+      "complete_variation_count": 2
+    },
+    {
+      "course_id": "C12",
+      "status": "in_progress",
+      "file": "C12.json",
+      "source_file": "C12.source.json",
+      "validation_file": "C12-validation.txt",
+      "variation_count": 11,
+      "move_count": 71,
+      "complete_variation_count": 1
+    },
+    {
+      "course_id": "C13",
+      "status": "in_progress",
+      "file": "C13.json",
+      "source_file": "C13.source.json",
+      "validation_file": "C13-validation.txt",
+      "variation_count": 10,
+      "move_count": 38,
+      "complete_variation_count": 1
+    },
+    {
+      "course_id": "C14",
+      "status": "in_progress",
+      "file": "C14.json",
+      "source_file": "C14.source.json",
+      "validation_file": "C14-validation.txt",
+      "variation_count": 14,
+      "move_count": 56,
+      "complete_variation_count": 6
+    },
+    {
+      "course_id": "C15",
+      "status": "complete",
+      "file": "C15.json",
+      "source_file": "C15.source.json",
+      "validation_file": "C15-validation.txt",
+      "variation_count": 25,
+      "move_count": 90,
+      "complete_variation_count": 25
+    },
+    {
+      "course_id": "C16",
+      "status": "complete",
+      "file": "C16.json",
+      "source_file": "C16.source.json",
+      "validation_file": "C16-validation.txt",
+      "variation_count": 34,
+      "move_count": 102,
+      "complete_variation_count": 34
+    },
+    {
+      "course_id": "C17",
+      "status": "pending",
+      "file": null,
+      "variation_count": 0,
+      "move_count": 0
+    },
+    {
+      "course_id": "C18",
+      "status": "pending",
+      "file": null,
+      "variation_count": 0,
+      "move_count": 0
+    },
+    {
+      "course_id": "C19",
+      "status": "pending",
+      "file": null,
+      "variation_count": 0,
+      "move_count": 0
+    },
+    {
+      "course_id": "C20",
+      "status": "pending",
+      "file": null,
+      "variation_count": 0,
+      "move_count": 0
+    },
+    {
+      "course_id": "C21",
+      "status": "pending",
+      "file": null,
+      "variation_count": 0,
+      "move_count": 0
+    },
+    {
+      "course_id": "C22",
+      "status": "pending",
+      "file": null,
+      "variation_count": 0,
+      "move_count": 0
+    },
+    {
+      "course_id": "C23",
+      "status": "complete",
+      "file": "C23.json",
+      "source_file": "C23.source.json",
+      "validation_file": "C23-validation.txt",
+      "variation_count": 25,
+      "move_count": 72,
+      "complete_variation_count": 25
+    },
+    {
+      "course_id": "C24",
+      "status": "complete",
+      "file": "C24.json",
+      "source_file": "C24.source.json",
+      "validation_file": "C24-validation.txt",
+      "variation_count": 23,
+      "move_count": 114,
+      "complete_variation_count": 23
+    },
+    {
+      "course_id": "C25",
+      "status": "in_progress",
+      "file": "C25.json",
+      "source_file": "C25.source.json",
+      "validation_file": "C25-validation.txt",
+      "variation_count": 14,
+      "move_count": 70,
+      "complete_variation_count": 12
+    },
+    {
+      "course_id": "C26",
+      "status": "in_progress",
+      "file": "C26.json",
+      "source_file": "C26.source.json",
+      "validation_file": "C26-validation.txt",
+      "variation_count": 15,
+      "move_count": 56,
+      "complete_variation_count": 14
+    },
+    {
+      "course_id": "C27",
+      "status": "in_progress",
+      "file": "C27.json",
+      "source_file": "C27.source.json",
+      "validation_file": "C27-validation.txt",
+      "variation_count": 12,
+      "move_count": 54,
+      "complete_variation_count": 11
+    },
+    {
+      "course_id": "C28",
+      "status": "pending",
+      "file": null,
+      "variation_count": 0,
+      "move_count": 0
+    },
+    {
+      "course_id": "C29",
+      "status": "pending",
+      "file": null,
+      "variation_count": 0,
+      "move_count": 0
+    },
+    {
+      "course_id": "C30",
+      "status": "in_progress",
+      "file": "C30.json",
+      "source_file": "C30.source.json",
+      "validation_file": "C30-validation.txt",
+      "variation_count": 14,
+      "move_count": 58,
+      "complete_variation_count": 13
+    },
+    {
+      "course_id": "C31",
+      "status": "in_progress",
+      "file": "C31.json",
+      "source_file": "C31.source.json",
+      "validation_file": "C31-validation.txt",
+      "variation_count": 11,
+      "move_count": 50,
+      "complete_variation_count": 10
+    },
+    {
+      "course_id": "C32",
+      "status": "in_progress",
+      "file": "C32.json",
+      "source_file": "C32.source.json",
+      "validation_file": "C32-validation.txt",
+      "variation_count": 13,
+      "move_count": 54,
+      "complete_variation_count": 13
+    },
+    {
+      "course_id": "C33",
+      "status": "in_progress",
+      "file": "C33.json",
+      "source_file": "C33.source.json",
+      "validation_file": "C33-validation.txt",
+      "variation_count": 9,
+      "move_count": 33,
+      "complete_variation_count": 8
+    },
+    {
+      "course_id": "C34",
+      "status": "in_progress",
+      "file": "C34.json",
+      "source_file": "C34.source.json",
+      "validation_file": "C34-validation.txt",
+      "variation_count": 9,
+      "move_count": 38,
+      "complete_variation_count": 8
+    },
+    {
+      "course_id": "C35",
+      "status": "pending",
+      "file": null,
+      "variation_count": 0,
+      "move_count": 0
+    },
+    {
+      "course_id": "C36",
+      "status": "pending",
+      "file": null,
+      "variation_count": 0,
+      "move_count": 0
+    },
+    {
+      "course_id": "C37",
+      "status": "pending",
+      "file": null,
+      "variation_count": 0,
+      "move_count": 0
+    },
+    {
+      "course_id": "C38",
+      "status": "pending",
+      "file": null,
+      "variation_count": 0,
+      "move_count": 0
+    },
+    {
+      "course_id": "C39",
+      "status": "complete",
+      "file": "C39.json",
+      "source_file": "C39.source.json",
+      "validation_file": "C39-validation.txt",
+      "variation_count": 11,
+      "move_count": 72,
+      "complete_variation_count": 11
+    },
+    {
+      "course_id": "C40",
+      "status": "complete",
+      "file": "C40.json",
+      "source_file": "C40.source.json",
+      "validation_file": "C40-validation.txt",
+      "variation_count": 11,
+      "move_count": 47,
+      "complete_variation_count": 11
+    },
+    {
+      "course_id": "C41",
+      "status": "complete",
+      "file": "C41.json",
+      "source_file": "C41.source.json",
+      "validation_file": "C41-validation.txt",
+      "variation_count": 28,
+      "move_count": 94,
+      "complete_variation_count": 28
+    },
+    {
+      "course_id": "C42",
+      "status": "complete",
+      "file": "C42.json",
+      "source_file": "C42.source.json",
+      "validation_file": "C42-validation.txt",
+      "variation_count": 9,
+      "move_count": 56,
+      "complete_variation_count": 9
+    },
+    {
+      "course_id": "C43",
+      "status": "complete",
+      "file": "C43.json",
+      "source_file": "C43.source.json",
+      "validation_file": "C43-validation.txt",
+      "variation_count": 6,
+      "move_count": 58,
+      "complete_variation_count": 6
+    },
+    {
+      "course_id": "C44",
+      "status": "complete",
+      "file": "C44.json",
+      "source_file": "C44.source.json",
+      "validation_file": "C44-validation.txt",
+      "variation_count": 11,
+      "move_count": 54,
+      "complete_variation_count": 11
+    },
+    {
+      "course_id": "C45",
+      "status": "pending",
+      "file": null,
+      "variation_count": 0,
+      "move_count": 0
+    },
+    {
+      "course_id": "C46",
+      "status": "pending",
+      "file": null,
+      "variation_count": 0,
+      "move_count": 0
+    },
+    {
+      "course_id": "C47",
+      "status": "pending",
+      "file": null,
+      "variation_count": 0,
+      "move_count": 0
+    },
+    {
+      "course_id": "C22.2",
+      "status": "pending",
+      "file": null,
+      "variation_count": 0,
+      "move_count": 0
+    },
+    {
+      "course_id": "C22.3",
+      "status": "pending",
+      "file": null,
+      "variation_count": 0,
+      "move_count": 0
+    }
+  ],
+  "totals": {
+    "source_courses": 48,
+    "concept_courses": 1,
+    "started_courses": 30,
+    "complete_courses": 15,
+    "variations": 402,
+    "moves": 1769
+  }
+}

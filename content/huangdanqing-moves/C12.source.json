@@ -1,0 +1,307 @@
+{
+  "course_id": "C12",
+  "title": "五七炮进攻两种形式",
+  "opening_node_ids": [
+    "ZP-PFM-JQB-PBDJ-WQP-QB"
+  ],
+  "status": "in_progress",
+  "source": {
+    "transcript": "/mnt/c/Users/260010122/Desktop/Gaoyq工作/象棋课程/文字提取/12、五七炮进攻两种形式_原文.md",
+    "video": "/mnt/c/Users/260010122/Desktop/Gaoyq工作/象棋课程/1.布局一点通/12、五七炮进攻两种形式.mp4",
+    "video_format": "MPEG-TS / H.264 / AAC（文件扩展名为 .mp4）",
+    "video_review": "本轮已按转录分段并抽取课程关键帧；逐着视频复核尚未全部完成，未核分支video_checked=false且complete=false。",
+    "engine_evaluation": "未运行 Pikafish，无引擎评分"
+  },
+  "pending_demonstrations": [
+    "直接炮八平七、兵七进一后黑车8进5及炮七进一顶炮、炮2进5别马腿的完整战术。",
+    "红车进杀双马、黑马7进6、红炮打中卒及黑一车换双后的车马炮攻势。",
+    "先马八进九后黑车8进5的平七炮、出车抓炮、兵五进一、补士与回窝心马各支线。",
+    "黑车8平5杀中兵、强砍中炮、跳马蹬车和平炮打死车的完整交换。",
+    "黑车8进8塞象眼后红平七炮、黑回窝心马及平炮打车的后续。"
+  ],
+  "variations": [
+    {
+      "variation_id": "HDQ-C12-00",
+      "title": "直接炮八平七与黑车1平2",
+      "parent_variation_id": null,
+      "source_start": "00:25",
+      "source_end": "01:06",
+      "moves": [
+        "h2e2",
+        "h9g7",
+        "h0g2",
+        "i9h9",
+        "i0h0",
+        "g6g5",
+        "h0h6",
+        "b9c7",
+        "c3c4",
+        "h7i7",
+        "h6g6",
+        "i7i8",
+        "b2c2",
+        "a9b9"
+      ],
+      "source_quote": "这个五七炮就是指的此时红方走这个炮八平七……黑方可以直接出车，对于红方这个冲七兵完全采取置之不理的策略。",
+      "source_explanation": "红直接炮八平七，黑车1平2出车；01:12画面已核。",
+      "course_endpoint": "book",
+      "provenance": "course_video",
+      "uncertainties": [],
+      "verification": {
+        "video_checked": true,
+        "reviewer_checked": false
+      },
+      "complete": true
+    },
+    {
+      "variation_id": "HDQ-C12-01",
+      "title": "兵七进一与黑马3退5",
+      "parent_variation_id": "HDQ-C12-00",
+      "source_start": "01:06",
+      "source_end": "02:01",
+      "moves": [
+        "c4c5",
+        "c7e8"
+      ],
+      "source_quote": "假如说红方直接冲兵过河，那么黑方在这个地方恰好有一招马三退五的好棋。",
+      "source_explanation": "红兵七进一，黑马3退5避开七路炮并暗藏炮9平7打车。",
+      "course_endpoint": "middlegame",
+      "provenance": "course_transcript",
+      "uncertainties": [],
+      "verification": {
+        "video_checked": false,
+        "reviewer_checked": false
+      },
+      "complete": false
+    },
+    {
+      "variation_id": "HDQ-C12-02",
+      "title": "红车三退一吃卒与黑象3进5双飞",
+      "parent_variation_id": "HDQ-C12-01",
+      "source_start": "01:06",
+      "source_end": "02:01",
+      "moves": [
+        "g6g5",
+        "c9e7",
+        "g5g6",
+        "e7c5"
+      ],
+      "source_quote": "比如说红方走车三退一，那么黑方立刻就可以飞象，一边飞你的车，一边可以飞你的兵……他就把你的兵给你白白拱掉了。",
+      "source_explanation": "红车三退一吃7卒，黑象3进5同时攻击红车与过河兵；红车退回后黑象吃兵。",
+      "course_endpoint": "middlegame",
+      "provenance": "reconstructed",
+      "uncertainties": [
+        "红车逃点与黑象吃兵方向需视频确认。"
+      ],
+      "verification": {
+        "video_checked": false,
+        "reviewer_checked": false
+      },
+      "complete": false
+    },
+    {
+      "variation_id": "HDQ-C12-03",
+      "title": "红兵吃3卒后黑炮9平7打车",
+      "parent_variation_id": "HDQ-C12-01",
+      "source_start": "02:01",
+      "source_end": "02:59",
+      "moves": [
+        "c5c6",
+        "i8g8",
+        "e2e6",
+        "e8c7",
+        "g6f6",
+        "g7e6"
+      ],
+      "source_quote": "如果你要此时直接冲七卒，把黑方这个过河卒吃掉，那黑方马上就可以炮九平七打车……只有一步棋就是炮五进四……黑方他并不会用马去吃你，而是把这个中马重新再跳出来。",
+      "source_explanation": "红兵七进一吃3卒，黑炮9平7打车；红炮五进四，黑马5进3双马蹬炮，红车三平四后黑马7进5吃炮。",
+      "course_endpoint": "middlegame",
+      "provenance": "course_transcript",
+      "uncertainties": [],
+      "verification": {
+        "video_checked": false,
+        "reviewer_checked": false
+      },
+      "complete": false
+    },
+    {
+      "variation_id": "HDQ-C12-04",
+      "title": "红马八进九与黑车8进5破坏冲兵",
+      "parent_variation_id": "HDQ-C12-00",
+      "source_start": "02:59",
+      "source_end": "04:03",
+      "moves": [
+        "b0a2",
+        "h9h4",
+        "c4c5",
+        "h4c4",
+        "c5c6",
+        "c4c2"
+      ],
+      "source_quote": "如果你直接跳马的话，黑方这个时候可以走车八进五……你再冲七兵，我立刻就可以走车八平三，吃你的炮、吃你的兵。",
+      "source_explanation": "红马八进九后黑骑河车；红冲七兵，黑车8平3控制七路炮和兵，红兵吃3卒则黑车吃七路炮。",
+      "course_endpoint": "middlegame",
+      "provenance": "course_transcript",
+      "uncertainties": [],
+      "verification": {
+        "video_checked": false,
+        "reviewer_checked": false
+      },
+      "complete": false
+    },
+    {
+      "variation_id": "HDQ-C12-05",
+      "title": "先马八进九再炮八平七的基本形",
+      "parent_variation_id": null,
+      "source_start": "06:05",
+      "source_end": "06:53",
+      "moves": [
+        "h2e2",
+        "h9g7",
+        "h0g2",
+        "i9h9",
+        "i0h0",
+        "g6g5",
+        "h0h6",
+        "b9c7",
+        "c3c4",
+        "h7i7",
+        "h6g6",
+        "i7i8",
+        "b0a2",
+        "a9b9",
+        "b2c2"
+      ],
+      "source_quote": "他先跳一个边马，下一步棋再走炮八平七，形成这个五七炮。",
+      "source_explanation": "红先马八进九，黑车1平2，红再炮八平七，与直接平炮形式分开维护。",
+      "course_endpoint": "book",
+      "provenance": "course_transcript",
+      "uncertainties": [],
+      "verification": {
+        "video_checked": false,
+        "reviewer_checked": false
+      },
+      "complete": false
+    },
+    {
+      "variation_id": "HDQ-C12-06",
+      "title": "先跳边马后黑车8进5骑河",
+      "parent_variation_id": null,
+      "source_start": "06:53",
+      "source_end": "08:30",
+      "moves": [
+        "h2e2",
+        "h9g7",
+        "h0g2",
+        "i9h9",
+        "i0h0",
+        "g6g5",
+        "h0h6",
+        "b9c7",
+        "c3c4",
+        "h7i7",
+        "h6g6",
+        "i7i8",
+        "b0a2",
+        "h9h4"
+      ],
+      "source_quote": "先跳一个边马……黑方此时有两种思路，一种就是车八进五骑河车杀兵。",
+      "source_explanation": "先马八进九后黑车8进5，作为炮八平七和兵五进一分支父节点。",
+      "course_endpoint": "book",
+      "provenance": "course_transcript",
+      "uncertainties": [],
+      "verification": {
+        "video_checked": false,
+        "reviewer_checked": false
+      },
+      "complete": false
+    },
+    {
+      "variation_id": "HDQ-C12-07",
+      "title": "黑骑河车后红炮八平七",
+      "parent_variation_id": "HDQ-C12-06",
+      "source_start": "06:53",
+      "source_end": "07:43",
+      "moves": [
+        "b2c2",
+        "h4c4",
+        "c2c3"
+      ],
+      "source_quote": "你要如果平炮，我就把你的兵给你杀了……你的炮如果往前进一步，刚才我们讲了黑方可以打车。",
+      "source_explanation": "红炮八平七，黑车8平3吃七兵，红炮七进一顶炮；后续打车、塞马腿待核。",
+      "course_endpoint": "middlegame",
+      "provenance": "course_transcript",
+      "uncertainties": [],
+      "verification": {
+        "video_checked": false,
+        "reviewer_checked": false
+      },
+      "complete": false
+    },
+    {
+      "variation_id": "HDQ-C12-08",
+      "title": "黑骑河车后红兵五进一挡车",
+      "parent_variation_id": "HDQ-C12-06",
+      "source_start": "07:43",
+      "source_end": "10:09",
+      "moves": [
+        "e3e4",
+        "d9e8"
+      ],
+      "source_quote": "红方在这里也只能选择冲中兵，用这个中兵去挡住黑车……黑方这个时候可以先补一个士。",
+      "source_explanation": "红兵五进一挡住黑骑河车，黑士4进5。",
+      "course_endpoint": "middlegame",
+      "provenance": "course_transcript",
+      "uncertainties": [],
+      "verification": {
+        "video_checked": false,
+        "reviewer_checked": false
+      },
+      "complete": false
+    },
+    {
+      "variation_id": "HDQ-C12-09",
+      "title": "兵五进一后黑马3退5与炮2平5",
+      "parent_variation_id": "HDQ-C12-06",
+      "source_start": "08:48",
+      "source_end": "09:41",
+      "moves": [
+        "e3e4",
+        "c7e8",
+        "b2b6",
+        "b7e7"
+      ],
+      "source_quote": "这个时候就可以马三退五了……红方再走炮八进四的时候，黑方他有一招炮二平五平中炮的棋。",
+      "source_explanation": "红冲中兵后黑回窝心马，红炮八进四，黑炮2平5反制。",
+      "course_endpoint": "middlegame",
+      "provenance": "course_transcript",
+      "uncertainties": [],
+      "verification": {
+        "video_checked": false,
+        "reviewer_checked": false
+      },
+      "complete": false
+    },
+    {
+      "variation_id": "HDQ-C12-10",
+      "title": "先跳边马后黑车8进8塞象眼",
+      "parent_variation_id": "HDQ-C12-06",
+      "parent_ply": 13,
+      "source_start": "10:09",
+      "source_end": "11:28",
+      "moves": [
+        "h9h1"
+      ],
+      "source_quote": "除了这个车八进五之外，黑方还有一种进攻思路，就是走车八进八……塞住你的象眼，准备下手炮九平七打车。",
+      "source_explanation": "黑车8进8点下二路，准备炮9平7和马7进8反击。",
+      "course_endpoint": "middlegame",
+      "provenance": "course_transcript",
+      "uncertainties": [],
+      "verification": {
+        "video_checked": false,
+        "reviewer_checked": false
+      },
+      "complete": false
+    }
+  ]
+}

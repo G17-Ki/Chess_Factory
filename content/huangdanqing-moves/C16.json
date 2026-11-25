@@ -1,0 +1,1786 @@
+{
+  "course_id": "C16",
+  "title": "顺炮横车与古谱的关联",
+  "opening_node_ids": [
+    "ZP-SP-HCZC"
+  ],
+  "status": "complete",
+  "source": {
+    "transcript": "/mnt/c/Users/260010122/Desktop/Gaoyq工作/象棋课程/文字提取/16、顺炮横车与古谱的关联_原文.md",
+    "video": "/mnt/c/Users/260010122/Desktop/Gaoyq工作/象棋课程/1.布局一点通/16、顺炮横车与古谱的关联.mp4",
+    "video_format": "MPEG-TS / H.264 / AAC（文件扩展名为 .mp4）",
+    "video_review": "全课按2秒间隔抽帧，复杂段结合逐秒及原尺寸关键帧复核。02:18–02:55的备选应手预演在后续详讲变化归档；回退、光标及口述未落子的续着不记为课程着法。",
+    "engine_evaluation": "未运行 Pikafish，无引擎评分"
+  },
+  "variations": [
+    {
+      "variation_id": "HDQ-C16-00",
+      "course_id": "C16",
+      "title": "顺炮横车对直车共同起点",
+      "parent_variation_id": null,
+      "parent_ply": null,
+      "source_start": "00:18",
+      "source_end": "02:18",
+      "start_fen": "rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C5C1/9/RNBAKABNR w - - 0 1",
+      "end_fen": "rnbakabr1/9/1c2c1n2/p1p1p1p1p/9/9/P1P1P1P1P/1C2C1N2/3R5/RNBAKAB2 b - - 7 4",
+      "moves": [
+        {
+          "chinese": "炮二平五",
+          "ucci": "h2e2",
+          "fen": "rnbakabnr/9/1c5c1/p1p1p1p1p/9/9/P1P1P1P1P/1C2C4/9/RNBAKABNR b - - 1 1",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        },
+        {
+          "chinese": "炮八平五",
+          "ucci": "h7e7",
+          "fen": "rnbakabnr/9/1c2c4/p1p1p1p1p/9/9/P1P1P1P1P/1C2C4/9/RNBAKABNR w - - 2 2",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        },
+        {
+          "chinese": "马二进三",
+          "ucci": "h0g2",
+          "fen": "rnbakabnr/9/1c2c4/p1p1p1p1p/9/9/P1P1P1P1P/1C2C1N2/9/RNBAKAB1R b - - 3 2",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        },
+        {
+          "chinese": "马八进七",
+          "ucci": "h9g7",
+          "fen": "rnbakab1r/9/1c2c1n2/p1p1p1p1p/9/9/P1P1P1P1P/1C2C1N2/9/RNBAKAB1R w - - 4 3",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        },
+        {
+          "chinese": "车一进一",
+          "ucci": "i0i1",
+          "fen": "rnbakab1r/9/1c2c1n2/p1p1p1p1p/9/9/P1P1P1P1P/1C2C1N2/8R/RNBAKAB2 b - - 5 3",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        },
+        {
+          "chinese": "车九平八",
+          "ucci": "i9h9",
+          "fen": "rnbakabr1/9/1c2c1n2/p1p1p1p1p/9/9/P1P1P1P1P/1C2C1N2/8R/RNBAKAB2 w - - 6 4",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        },
+        {
+          "chinese": "车一平六",
+          "ucci": "i1d1",
+          "fen": "rnbakabr1/9/1c2c1n2/p1p1p1p1p/9/9/P1P1P1P1P/1C2C1N2/3R5/RNBAKAB2 b - - 7 4",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        }
+      ],
+      "source_quote": "今天要给大家讲解的是顺手炮横车对直车的阵势……此时第三个回合，红棋可以选择直接走车进行横车……黑方也只能选择出直车了……红方必然要走车一平六。",
+      "source_explanation": "画面依次确认炮二平五、炮8平5、马二进三、马8进7、车一进一、车9平8、车一平六。",
+      "course_endpoint": "book",
+      "provenance": "course_video",
+      "uncertainties": [],
+      "verification": {
+        "video_checked": true,
+        "legal_moves_checked": true,
+        "fen_checked": true,
+        "reviewer_checked": false
+      },
+      "complete": true
+    },
+    {
+      "variation_id": "HDQ-C16-01",
+      "course_id": "C16",
+      "title": "黑车8进6吃兵，红马八进七再进六",
+      "parent_variation_id": "HDQ-C16-00",
+      "parent_ply": 7,
+      "source_start": "02:55",
+      "source_end": "05:02",
+      "start_fen": "rnbakabr1/9/1c2c1n2/p1p1p1p1p/9/9/P1P1P1P1P/1C2C1N2/3R5/RNBAKAB2 b - - 7 4",
+      "end_fen": "r1bakab2/9/nc2c1n2/p1p1p1p1p/9/2PN5/P3P1r1P/1C2C1N2/3R5/R1BAKAB2 b - - 3 7",
+      "moves": [
+        {
+          "chinese": "车八进六",
+          "ucci": "h9h3",
+          "fen": "rnbakab2/9/1c2c1n2/p1p1p1p1p/9/9/P1P1P1PrP/1C2C1N2/3R5/RNBAKAB2 w - - 8 5",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        },
+        {
+          "chinese": "兵七进一",
+          "ucci": "c3c4",
+          "fen": "rnbakab2/9/1c2c1n2/p1p1p1p1p/9/2P6/P3P1PrP/1C2C1N2/3R5/RNBAKAB2 b - - 0 5",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        },
+        {
+          "chinese": "车八平七",
+          "ucci": "h3g3",
+          "fen": "rnbakab2/9/1c2c1n2/p1p1p1p1p/9/2P6/P3P1r1P/1C2C1N2/3R5/RNBAKAB2 w - - 0 6",
+          "captured": "P",
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        },
+        {
+          "chinese": "马八进七",
+          "ucci": "b0c2",
+          "fen": "rnbakab2/9/1c2c1n2/p1p1p1p1p/9/2P6/P3P1r1P/1CN1C1N2/3R5/R1BAKAB2 b - - 1 6",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        },
+        {
+          "chinese": "马二进一",
+          "ucci": "b9a7",
+          "fen": "r1bakab2/9/nc2c1n2/p1p1p1p1p/9/2P6/P3P1r1P/1CN1C1N2/3R5/R1BAKAB2 w - - 2 7",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        },
+        {
+          "chinese": "马七进六",
+          "ucci": "c2d4",
+          "fen": "r1bakab2/9/nc2c1n2/p1p1p1p1p/9/2PN5/P3P1r1P/1C2C1N2/3R5/R1BAKAB2 b - - 3 7",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        }
+      ],
+      "source_quote": "黑方走这个车八进六……红方可以直接进七兵，你如果吃掉我就马上跳上去……马八进七正常出子……比如说你跳边马，那我就可以马七进六。",
+      "source_explanation": "主线为车8进6、兵七进一、车8平7吃兵、马八进七；视频回退到吃兵节点后，以马2进1、马七进六展示红方正常出子。",
+      "course_endpoint": "book",
+      "provenance": "course_video",
+      "uncertainties": [],
+      "verification": {
+        "video_checked": true,
+        "legal_moves_checked": true,
+        "fen_checked": true,
+        "reviewer_checked": false
+      },
+      "complete": true
+    },
+    {
+      "variation_id": "HDQ-C16-02",
+      "course_id": "C16",
+      "title": "黑车贪吃马，红炮打中卒闪将吃回",
+      "parent_variation_id": "HDQ-C16-01",
+      "parent_ply": 11,
+      "source_start": "03:20",
+      "source_end": "03:50",
+      "start_fen": "rnbakab2/9/1c2c1n2/p1p1p1p1p/9/2P6/P3P1r1P/1CN1C1N2/3R5/R1BAKAB2 b - - 1 6",
+      "end_fen": "rnbakab2/9/1c2c4/p1p1n1p1p/9/2P6/P3P3P/2N3C2/3R5/R1BAKAB2 b - - 0 8",
+      "moves": [
+        {
+          "chinese": "车七进一",
+          "ucci": "g3g2",
+          "fen": "rnbakab2/9/1c2c1n2/p1p1p1p1p/9/2P6/P3P3P/1CN1C1r2/3R5/R1BAKAB2 w - - 0 7",
+          "captured": "N",
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        },
+        {
+          "chinese": "炮五进四+",
+          "ucci": "e2e6",
+          "fen": "rnbakab2/9/1c2c1n2/p1p1C1p1p/9/2P6/P3P3P/1CN3r2/3R5/R1BAKAB2 b - - 0 7",
+          "captured": "p",
+          "check": "+",
+          "comment": null,
+          "provenance": "course_video"
+        },
+        {
+          "chinese": "马七进五",
+          "ucci": "g7e6",
+          "fen": "rnbakab2/9/1c2c4/p1p1n1p1p/9/2P6/P3P3P/1CN3r2/3R5/R1BAKAB2 w - - 0 8",
+          "captured": "C",
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        },
+        {
+          "chinese": "炮八平三",
+          "ucci": "b2g2",
+          "fen": "rnbakab2/9/1c2c4/p1p1n1p1p/9/2P6/P3P3P/2N3C2/3R5/R1BAKAB2 b - - 0 8",
+          "captured": "r",
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        }
+      ],
+      "source_quote": "黑方的车并不敢去吃红方的马，因为你吃马红方可以炮击打卒闪将……黑方虽然用一个车换两个子，但是开局的时候就少一个车。",
+      "source_explanation": "父变化取至红马八进七；黑车7进1吃马后，红炮五进四打中卒将军，黑马7进5吃炮，红炮八平三借七路马作炮架吃回黑车。",
+      "course_endpoint": "middlegame",
+      "provenance": "course_video",
+      "uncertainties": [],
+      "verification": {
+        "video_checked": true,
+        "legal_moves_checked": true,
+        "fen_checked": true,
+        "reviewer_checked": false
+      },
+      "complete": true
+    },
+    {
+      "variation_id": "HDQ-C16-03",
+      "course_id": "C16",
+      "title": "换子后黑马五进六闪将",
+      "parent_variation_id": "HDQ-C16-02",
+      "parent_ply": 15,
+      "source_start": "03:50",
+      "source_end": "03:55",
+      "start_fen": "rnbakab2/9/1c2c4/p1p1n1p1p/9/2P6/P3P3P/2N3C2/3R5/R1BAKAB2 b - - 0 8",
+      "end_fen": "rnbakab2/9/1c2c4/p1p3p1p/9/2P2n3/P3P3P/2N3C2/3R5/R1BAKAB2 w - - 1 9",
+      "moves": [
+        {
+          "chinese": "马五进六+",
+          "ucci": "e6f4",
+          "fen": "rnbakab2/9/1c2c4/p1p3p1p/9/2P2n3/P3P3P/2N3C2/3R5/R1BAKAB2 w - - 1 9",
+          "captured": null,
+          "check": "+",
+          "comment": null,
+          "provenance": "course_video"
+        }
+      ],
+      "source_quote": "你马五进六出将，我可以平中炮交给象。",
+      "source_explanation": "画面只实际落下黑马五进六，随后回退；红方平中炮是口述应对，未补写入谱。",
+      "course_endpoint": "middlegame",
+      "provenance": "course_video",
+      "uncertainties": [],
+      "verification": {
+        "video_checked": true,
+        "legal_moves_checked": true,
+        "fen_checked": true,
+        "reviewer_checked": false
+      },
+      "complete": true
+    },
+    {
+      "variation_id": "HDQ-C16-04",
+      "course_id": "C16",
+      "title": "黑马五进四，红回马再平炮拦马",
+      "parent_variation_id": "HDQ-C16-02",
+      "parent_ply": 15,
+      "source_start": "03:55",
+      "source_end": "04:08",
+      "start_fen": "rnbakab2/9/1c2c4/p1p1n1p1p/9/2P6/P3P3P/2N3C2/3R5/R1BAKAB2 b - - 0 8",
+      "end_fen": "rnbakab2/9/1c2c4/p1p3p1p/9/2P6/P3Pn2P/5C3/3RN4/R1BAKAB2 b - - 4 10",
+      "moves": [
+        {
+          "chinese": "马五进四+",
+          "ucci": "e6d4",
+          "fen": "rnbakab2/9/1c2c4/p1p3p1p/9/2Pn5/P3P3P/2N3C2/3R5/R1BAKAB2 w - - 1 9",
+          "captured": null,
+          "check": "+",
+          "comment": null,
+          "provenance": "course_video"
+        },
+        {
+          "chinese": "马七退五",
+          "ucci": "c2e1",
+          "fen": "rnbakab2/9/1c2c4/p1p3p1p/9/2Pn5/P3P3P/6C2/3RN4/R1BAKAB2 b - - 2 9",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        },
+        {
+          "chinese": "马四进六",
+          "ucci": "d4f3",
+          "fen": "rnbakab2/9/1c2c4/p1p3p1p/9/2P6/P3Pn2P/6C2/3RN4/R1BAKAB2 w - - 3 10",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        },
+        {
+          "chinese": "炮三平四",
+          "ucci": "g2f2",
+          "fen": "rnbakab2/9/1c2c4/p1p3p1p/9/2P6/P3Pn2P/5C3/3RN4/R1BAKAB2 b - - 4 10",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        }
+      ],
+      "source_quote": "你马五进四……我可以直接马七退五回马……还反吃你的马，你再跳，我给平炮拦住。",
+      "source_explanation": "逐秒帧确认黑马五进四、红马七退五、黑马四进六、红炮三平四；与上一条马五进六互斥。",
+      "course_endpoint": "middlegame",
+      "provenance": "course_video",
+      "uncertainties": [],
+      "verification": {
+        "video_checked": true,
+        "legal_moves_checked": true,
+        "fen_checked": true,
+        "reviewer_checked": false
+      },
+      "complete": true
+    },
+    {
+      "variation_id": "HDQ-C16-05",
+      "course_id": "C16",
+      "title": "黑马2进1，红车六进六抓炮",
+      "parent_variation_id": "HDQ-C16-00",
+      "parent_ply": 7,
+      "source_start": "05:19",
+      "source_end": "05:54",
+      "start_fen": "rnbakabr1/9/1c2c1n2/p1p1p1p1p/9/9/P1P1P1P1P/1C2C1N2/3R5/RNBAKAB2 b - - 7 4",
+      "end_fen": "r1bakabr1/9/nc1Rc1n2/p1p1p1p1p/9/9/P1P1P1P1P/1C2C1N2/9/RNBAKAB2 b - - 9 5",
+      "moves": [
+        {
+          "chinese": "马二进一",
+          "ucci": "b9a7",
+          "fen": "r1bakabr1/9/nc2c1n2/p1p1p1p1p/9/9/P1P1P1P1P/1C2C1N2/3R5/RNBAKAB2 w - - 8 5",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        },
+        {
+          "chinese": "车六进六",
+          "ucci": "d1d7",
+          "fen": "r1bakabr1/9/nc1Rc1n2/p1p1p1p1p/9/9/P1P1P1P1P/1C2C1N2/9/RNBAKAB2 b - - 9 5",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        }
+      ],
+      "source_quote": "黑方……可以走马二进一跳边马……红方还有一步好棋……就是走这个车六进六，吃你的二路炮。",
+      "source_explanation": "边马分支共同节点；后续分别比较黑炮退一、进四和进二。",
+      "course_endpoint": "book",
+      "provenance": "course_video",
+      "uncertainties": [],
+      "verification": {
+        "video_checked": true,
+        "legal_moves_checked": true,
+        "fen_checked": true,
+        "reviewer_checked": false
+      },
+      "complete": true
+    },
+    {
+      "variation_id": "HDQ-C16-06",
+      "course_id": "C16",
+      "title": "黑炮2退1，红炮八进五打串",
+      "parent_variation_id": "HDQ-C16-05",
+      "parent_ply": 9,
+      "source_start": "05:54",
+      "source_end": "06:31",
+      "start_fen": "r1bakabr1/9/nc1Rc1n2/p1p1p1p1p/9/9/P1P1P1P1P/1C2C1N2/9/RNBAKAB2 b - - 9 5",
+      "end_fen": "r1bakabr1/1c7/nC1Rc1n2/p1p1p1p1p/9/9/P1P1P1P1P/4C1N2/9/RNBAKAB2 b - - 11 6",
+      "moves": [
+        {
+          "chinese": "炮二退一",
+          "ucci": "b7b8",
+          "fen": "r1bakabr1/1c7/n2Rc1n2/p1p1p1p1p/9/9/P1P1P1P1P/1C2C1N2/9/RNBAKAB2 w - - 10 6",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        },
+        {
+          "chinese": "炮八进五",
+          "ucci": "b2b7",
+          "fen": "r1bakabr1/1c7/nC1Rc1n2/p1p1p1p1p/9/9/P1P1P1P1P/4C1N2/9/RNBAKAB2 b - - 11 6",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        }
+      ],
+      "source_quote": "你要是后退一步的话……可以直接炮八进五……打你的中炮。",
+      "source_explanation": "视频止于红炮八进五；后续打车、吃炮和吃马均为口述，没有实际落子。",
+      "course_endpoint": "book",
+      "provenance": "course_video",
+      "uncertainties": [],
+      "verification": {
+        "video_checked": true,
+        "legal_moves_checked": true,
+        "fen_checked": true,
+        "reviewer_checked": false
+      },
+      "complete": true
+    },
+    {
+      "variation_id": "HDQ-C16-07",
+      "course_id": "C16",
+      "title": "黑炮2进4，红马八进七",
+      "parent_variation_id": "HDQ-C16-05",
+      "parent_ply": 9,
+      "source_start": "06:31",
+      "source_end": "06:46",
+      "start_fen": "r1bakabr1/9/nc1Rc1n2/p1p1p1p1p/9/9/P1P1P1P1P/1C2C1N2/9/RNBAKAB2 b - - 9 5",
+      "end_fen": "r1bakabr1/9/n2Rc1n2/p1p1p1p1p/9/9/PcP1P1P1P/1CN1C1N2/9/R1BAKAB2 b - - 11 6",
+      "moves": [
+        {
+          "chinese": "炮二进四",
+          "ucci": "b7b3",
+          "fen": "r1bakabr1/9/n2Rc1n2/p1p1p1p1p/9/9/PcP1P1P1P/1C2C1N2/9/RNBAKAB2 w - - 10 6",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        },
+        {
+          "chinese": "马八进七",
+          "ucci": "b0c2",
+          "fen": "r1bakabr1/9/n2Rc1n2/p1p1p1p1p/9/9/PcP1P1P1P/1CN1C1N2/9/R1BAKAB2 b - - 11 6",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        }
+      ],
+      "source_quote": "那么进四步也不行，红方跳马之后，仍然可以平车抓死炮。",
+      "source_explanation": "画面实际演示炮2进4和马八进七；平车抓炮及口述的炮2进1比较未落子，不写入。",
+      "course_endpoint": "book",
+      "provenance": "course_video",
+      "uncertainties": [],
+      "verification": {
+        "video_checked": true,
+        "legal_moves_checked": true,
+        "fen_checked": true,
+        "reviewer_checked": false
+      },
+      "complete": true
+    },
+    {
+      "variation_id": "HDQ-C16-08",
+      "course_id": "C16",
+      "title": "黑炮2进2巡河，红车六退二抓炮",
+      "parent_variation_id": "HDQ-C16-05",
+      "parent_ply": 9,
+      "source_start": "06:46",
+      "source_end": "06:54",
+      "start_fen": "r1bakabr1/9/nc1Rc1n2/p1p1p1p1p/9/9/P1P1P1P1P/1C2C1N2/9/RNBAKAB2 b - - 9 5",
+      "end_fen": "r1bakabr1/9/n3c1n2/p1p1p1p1p/1c1R5/9/P1P1P1P1P/1C2C1N2/9/RNBAKAB2 b - - 11 6",
+      "moves": [
+        {
+          "chinese": "炮二进二",
+          "ucci": "b7b5",
+          "fen": "r1bakabr1/9/n2Rc1n2/p1p1p1p1p/1c7/9/P1P1P1P1P/1C2C1N2/9/RNBAKAB2 w - - 10 6",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        },
+        {
+          "chinese": "车六退二",
+          "ucci": "d7d5",
+          "fen": "r1bakabr1/9/n3c1n2/p1p1p1p1p/1c1R5/9/P1P1P1P1P/1C2C1N2/9/RNBAKAB2 b - - 11 6",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        }
+      ],
+      "source_quote": "只能进两步，炮二进二巡河炮……红方再退车抓炮。",
+      "source_explanation": "巡河炮分支共同节点，红车由d7退至d5。",
+      "course_endpoint": "book",
+      "provenance": "course_video",
+      "uncertainties": [],
+      "verification": {
+        "video_checked": true,
+        "legal_moves_checked": true,
+        "fen_checked": true,
+        "reviewer_checked": false
+      },
+      "complete": true
+    },
+    {
+      "variation_id": "HDQ-C16-09",
+      "course_id": "C16",
+      "title": "黑炮2平3，红马八进九",
+      "parent_variation_id": "HDQ-C16-08",
+      "parent_ply": 11,
+      "source_start": "06:54",
+      "source_end": "07:02",
+      "start_fen": "r1bakabr1/9/n3c1n2/p1p1p1p1p/1c1R5/9/P1P1P1P1P/1C2C1N2/9/RNBAKAB2 b - - 11 6",
+      "end_fen": "r1bakabr1/9/n3c1n2/p1p1p1p1p/2cR5/9/P1P1P1P1P/NC2C1N2/9/R1BAKAB2 b - - 13 7",
+      "moves": [
+        {
+          "chinese": "炮二平三",
+          "ucci": "b5c5",
+          "fen": "r1bakabr1/9/n3c1n2/p1p1p1p1p/2cR5/9/P1P1P1P1P/1C2C1N2/9/RNBAKAB2 w - - 12 7",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        },
+        {
+          "chinese": "马八进九",
+          "ucci": "b0a2",
+          "fen": "r1bakabr1/9/n3c1n2/p1p1p1p1p/2cR5/9/P1P1P1P1P/NC2C1N2/9/R1BAKAB2 b - - 13 7",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        }
+      ],
+      "source_quote": "你不能再平炮了，你再平炮我跳一个边马，一会儿这个兵一拱，这个炮就不知道去哪里。",
+      "source_explanation": "视频确认黑炮2平3、红马八进九；冲七兵是口述后续，未实际落子。",
+      "course_endpoint": "book",
+      "provenance": "course_video",
+      "uncertainties": [],
+      "verification": {
+        "video_checked": true,
+        "legal_moves_checked": true,
+        "fen_checked": true,
+        "reviewer_checked": false
+      },
+      "complete": true
+    },
+    {
+      "variation_id": "HDQ-C16-10",
+      "course_id": "C16",
+      "title": "黑炮2退2，红马八进七",
+      "parent_variation_id": "HDQ-C16-08",
+      "parent_ply": 11,
+      "source_start": "07:02",
+      "source_end": "07:30",
+      "start_fen": "r1bakabr1/9/n3c1n2/p1p1p1p1p/1c1R5/9/P1P1P1P1P/1C2C1N2/9/RNBAKAB2 b - - 11 6",
+      "end_fen": "r1bakabr1/9/nc2c1n2/p1p1p1p1p/3R5/9/P1P1P1P1P/1CN1C1N2/9/R1BAKAB2 b - - 13 7",
+      "moves": [
+        {
+          "chinese": "炮二退二",
+          "ucci": "b5b7",
+          "fen": "r1bakabr1/9/nc2c1n2/p1p1p1p1p/3R5/9/P1P1P1P1P/1C2C1N2/9/RNBAKAB2 w - - 12 7",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        },
+        {
+          "chinese": "马八进七",
+          "ucci": "b0c2",
+          "fen": "r1bakabr1/9/nc2c1n2/p1p1p1p1p/3R5/9/P1P1P1P1P/1CN1C1N2/9/R1BAKAB2 b - - 13 7",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        }
+      ],
+      "source_quote": "但是你要再退回去，这个棋是不是就有所失先了……接下来红方再走这个马八进七。",
+      "source_explanation": "黑炮退回原位，红方跳正马，形成红方多出一步有效出子的比较。",
+      "course_endpoint": "book",
+      "provenance": "course_video",
+      "uncertainties": [],
+      "verification": {
+        "video_checked": true,
+        "legal_moves_checked": true,
+        "fen_checked": true,
+        "reviewer_checked": false
+      },
+      "complete": true
+    },
+    {
+      "variation_id": "HDQ-C16-11",
+      "course_id": "C16",
+      "title": "黑马2进3，红车六进五压马",
+      "parent_variation_id": "HDQ-C16-00",
+      "parent_ply": 7,
+      "source_start": "07:30",
+      "source_end": "07:57",
+      "start_fen": "rnbakabr1/9/1c2c1n2/p1p1p1p1p/9/9/P1P1P1P1P/1C2C1N2/3R5/RNBAKAB2 b - - 7 4",
+      "end_fen": "r1bakabr1/9/1cn1c1n2/p1pRp1p1p/9/9/P1P1P1P1P/1C2C1N2/9/RNBAKAB2 b - - 9 5",
+      "moves": [
+        {
+          "chinese": "马二进三",
+          "ucci": "b9c7",
+          "fen": "r1bakabr1/9/1cn1c1n2/p1p1p1p1p/9/9/P1P1P1P1P/1C2C1N2/3R5/RNBAKAB2 w - - 8 5",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        },
+        {
+          "chinese": "车六进五",
+          "ucci": "d1d6",
+          "fen": "r1bakabr1/9/1cn1c1n2/p1pRp1p1p/9/9/P1P1P1P1P/1C2C1N2/9/RNBAKAB2 b - - 9 5",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        }
+      ],
+      "source_quote": "另外黑方也可以马二进三跳正马……红方可能立刻就会车六进五，压马。",
+      "source_explanation": "正马分支共同节点，后续比较平炮与飞边象两种保马构思。",
+      "course_endpoint": "book",
+      "provenance": "course_video",
+      "uncertainties": [],
+      "verification": {
+        "video_checked": true,
+        "legal_moves_checked": true,
+        "fen_checked": true,
+        "reviewer_checked": false
+      },
+      "complete": true
+    },
+    {
+      "variation_id": "HDQ-C16-12",
+      "course_id": "C16",
+      "title": "黑炮5平6补士，红连冲中兵",
+      "parent_variation_id": "HDQ-C16-11",
+      "parent_ply": 9,
+      "source_start": "07:57",
+      "source_end": "08:20",
+      "start_fen": "r1bakabr1/9/1cn1c1n2/p1pRp1p1p/9/9/P1P1P1P1P/1C2C1N2/9/RNBAKAB2 b - - 9 5",
+      "end_fen": "r1b1kabr1/4a4/1cn2cn2/p1pRp1p1p/4P4/9/P1P3P1P/1C2C1N2/9/RNBAKAB2 b - - 0 7",
+      "moves": [
+        {
+          "chinese": "炮五平六",
+          "ucci": "e7f7",
+          "fen": "r1bakabr1/9/1cn2cn2/p1pRp1p1p/9/9/P1P1P1P1P/1C2C1N2/9/RNBAKAB2 w - - 10 6",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        },
+        {
+          "chinese": "兵五进一",
+          "ucci": "e3e4",
+          "fen": "r1bakabr1/9/1cn2cn2/p1pRp1p1p/9/4P4/P1P3P1P/1C2C1N2/9/RNBAKAB2 b - - 0 6",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        },
+        {
+          "chinese": "士四进五",
+          "ucci": "d9e8",
+          "fen": "r1b1kabr1/4a4/1cn2cn2/p1pRp1p1p/9/4P4/P1P3P1P/1C2C1N2/9/RNBAKAB2 w - - 1 7",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        },
+        {
+          "chinese": "兵五进一",
+          "ucci": "e4e5",
+          "fen": "r1b1kabr1/4a4/1cn2cn2/p1pRp1p1p/4P4/9/P1P3P1P/1C2C1N2/9/RNBAKAB2 b - - 0 7",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        }
+      ],
+      "source_quote": "比如说你要平炮……红方就会立刻从中路进攻……黑方一般会选择补一个士……红方就可以继续往前冲。",
+      "source_explanation": "原尺寸帧依次确认炮5平6、兵五进一、士4进5、兵五进一。",
+      "course_endpoint": "book",
+      "provenance": "course_video",
+      "uncertainties": [],
+      "verification": {
+        "video_checked": true,
+        "legal_moves_checked": true,
+        "fen_checked": true,
+        "reviewer_checked": false
+      },
+      "complete": true
+    },
+    {
+      "variation_id": "HDQ-C16-13",
+      "course_id": "C16",
+      "title": "黑象3进1保马，红双车炮攻窝心马",
+      "parent_variation_id": "HDQ-C16-11",
+      "parent_ply": 9,
+      "source_start": "08:20",
+      "source_end": "09:20",
+      "start_fen": "r1bakabr1/9/1cn1c1n2/p1pRp1p1p/9/9/P1P1P1P1P/1C2C1N2/9/RNBAKAB2 b - - 9 5",
+      "end_fen": "3akabr1/3Rn4/bc2c1n2/p3p1p1p/9/9/P1r1P1P1P/2C1C1N2/9/RNBAKAB2 b - - 1 9",
+      "moves": [
+        {
+          "chinese": "象三进一",
+          "ucci": "c9a7",
+          "fen": "r2akabr1/9/bcn1c1n2/p1pRp1p1p/9/9/P1P1P1P1P/1C2C1N2/9/RNBAKAB2 w - - 10 6",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        },
+        {
+          "chinese": "车六平七",
+          "ucci": "d6c6",
+          "fen": "r2akabr1/9/bcn1c1n2/p1R1p1p1p/9/9/P1P1P1P1P/1C2C1N2/9/RNBAKAB2 b - - 0 6",
+          "captured": "p",
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        },
+        {
+          "chinese": "车一平三",
+          "ucci": "a9c9",
+          "fen": "2rakabr1/9/bcn1c1n2/p1R1p1p1p/9/9/P1P1P1P1P/1C2C1N2/9/RNBAKAB2 w - - 1 7",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        },
+        {
+          "chinese": "炮八平七",
+          "ucci": "b2c2",
+          "fen": "2rakabr1/9/bcn1c1n2/p1R1p1p1p/9/9/P1P1P1P1P/2C1C1N2/9/RNBAKAB2 b - - 2 7",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        },
+        {
+          "chinese": "马三退五",
+          "ucci": "c7e8",
+          "fen": "2rakabr1/4n4/bc2c1n2/p1R1p1p1p/9/9/P1P1P1P1P/2C1C1N2/9/RNBAKAB2 w - - 3 8",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        },
+        {
+          "chinese": "车七平六",
+          "ucci": "c6d6",
+          "fen": "2rakabr1/4n4/bc2c1n2/p2Rp1p1p/9/9/P1P1P1P1P/2C1C1N2/9/RNBAKAB2 b - - 4 8",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        },
+        {
+          "chinese": "车三进六",
+          "ucci": "c9c3",
+          "fen": "3akabr1/4n4/bc2c1n2/p2Rp1p1p/9/9/P1r1P1P1P/2C1C1N2/9/RNBAKAB2 w - - 0 9",
+          "captured": "P",
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        },
+        {
+          "chinese": "车六进二",
+          "ucci": "d6d8",
+          "fen": "3akabr1/3Rn4/bc2c1n2/p3p1p1p/9/9/P1r1P1P1P/2C1C1N2/9/RNBAKAB2 b - - 1 9",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        }
+      ],
+      "source_quote": "那如果你要是飞边象……红方就可以直接吃掉……黑方平车保马，红方炮八平七……黑马只能回窝心马……红方可以先走一招车七平六……你吃我的兵，我就往前进两步。",
+      "source_explanation": "红车六平七吃3卒，黑车1平3保马；红炮八平七、黑马3退5后，红车七平六借七路炮打车，黑车3进6吃兵，红车六进二卡住窝心马。车九进一等后续仅口述。",
+      "course_endpoint": "middlegame",
+      "provenance": "course_video",
+      "uncertainties": [],
+      "verification": {
+        "video_checked": true,
+        "legal_moves_checked": true,
+        "fen_checked": true,
+        "reviewer_checked": false
+      },
+      "complete": true
+    },
+    {
+      "variation_id": "HDQ-C16-14",
+      "course_id": "C16",
+      "title": "黑补士，红车六进七点二路",
+      "parent_variation_id": "HDQ-C16-00",
+      "parent_ply": 7,
+      "source_start": "09:48",
+      "source_end": "10:32",
+      "start_fen": "rnbakabr1/9/1c2c1n2/p1p1p1p1p/9/9/P1P1P1P1P/1C2C1N2/3R5/RNBAKAB2 b - - 7 4",
+      "end_fen": "rnb1kabr1/3Ra4/1c2c1n2/p1p1p1p1p/9/9/P1P1P1P1P/1C2C1N2/9/RNBAKAB2 b - - 9 5",
+      "moves": [
+        {
+          "chinese": "士四进五",
+          "ucci": "d9e8",
+          "fen": "rnb1kabr1/4a4/1c2c1n2/p1p1p1p1p/9/9/P1P1P1P1P/1C2C1N2/3R5/RNBAKAB2 w - - 8 5",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        },
+        {
+          "chinese": "车六进七",
+          "ucci": "d1d8",
+          "fen": "rnb1kabr1/3Ra4/1c2c1n2/p1p1p1p1p/9/9/P1P1P1P1P/1C2C1N2/9/RNBAKAB2 b - - 9 5",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        }
+      ],
+      "source_quote": "黑方……还有一种走法就是补士……红方……采用一个点二路车这么一个攻法。",
+      "source_explanation": "视频确认黑士4进5、红车六进七；后续分正马与边马。",
+      "course_endpoint": "book",
+      "provenance": "course_video",
+      "uncertainties": [],
+      "verification": {
+        "video_checked": true,
+        "legal_moves_checked": true,
+        "fen_checked": true,
+        "reviewer_checked": false
+      },
+      "complete": true
+    },
+    {
+      "variation_id": "HDQ-C16-15",
+      "course_id": "C16",
+      "title": "黑马2进3，红车六平七抓马",
+      "parent_variation_id": "HDQ-C16-14",
+      "parent_ply": 9,
+      "source_start": "10:32",
+      "source_end": "10:42",
+      "start_fen": "rnb1kabr1/3Ra4/1c2c1n2/p1p1p1p1p/9/9/P1P1P1P1P/1C2C1N2/9/RNBAKAB2 b - - 9 5",
+      "end_fen": "r1b1kabr1/2R1a4/1cn1c1n2/p1p1p1p1p/9/9/P1P1P1P1P/1C2C1N2/9/RNBAKAB2 b - - 11 6",
+      "moves": [
+        {
+          "chinese": "马二进三",
+          "ucci": "b9c7",
+          "fen": "r1b1kabr1/3Ra4/1cn1c1n2/p1p1p1p1p/9/9/P1P1P1P1P/1C2C1N2/9/RNBAKAB2 w - - 10 6",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        },
+        {
+          "chinese": "车六平七",
+          "ucci": "d8c8",
+          "fen": "r1b1kabr1/2R1a4/1cn1c1n2/p1p1p1p1p/9/9/P1P1P1P1P/1C2C1N2/9/RNBAKAB2 b - - 11 6",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        }
+      ],
+      "source_quote": "如果你要是马二进三……那我就可以平车再抓你的马。",
+      "source_explanation": "补士后正马分支共同节点；红车由d8平至c8。",
+      "course_endpoint": "book",
+      "provenance": "course_video",
+      "uncertainties": [],
+      "verification": {
+        "video_checked": true,
+        "legal_moves_checked": true,
+        "fen_checked": true,
+        "reviewer_checked": false
+      },
+      "complete": true
+    },
+    {
+      "variation_id": "HDQ-C16-16",
+      "course_id": "C16",
+      "title": "错误应对：黑士5进4，红车七平三抓马",
+      "parent_variation_id": "HDQ-C16-15",
+      "parent_ply": 11,
+      "source_start": "10:42",
+      "source_end": "10:58",
+      "start_fen": "r1b1kabr1/2R1a4/1cn1c1n2/p1p1p1p1p/9/9/P1P1P1P1P/1C2C1N2/9/RNBAKAB2 b - - 11 6",
+      "end_fen": "r1b1kabr1/6R2/1cnac1n2/p1p1p1p1p/9/9/P1P1P1P1P/1C2C1N2/9/RNBAKAB2 b - - 13 7",
+      "moves": [
+        {
+          "chinese": "士五进四",
+          "ucci": "e8d7",
+          "fen": "r1b1kabr1/2R6/1cnac1n2/p1p1p1p1p/9/9/P1P1P1P1P/1C2C1N2/9/RNBAKAB2 w - - 12 7",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        },
+        {
+          "chinese": "车七平三",
+          "ucci": "c8g8",
+          "fen": "r1b1kabr1/6R2/1cnac1n2/p1p1p1p1p/9/9/P1P1P1P1P/1C2C1N2/9/RNBAKAB2 b - - 13 7",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        }
+      ],
+      "source_quote": "这个时候黑方你不能用士去保，你用士去保，他这个车又来抓你的三路马。",
+      "source_explanation": "原尺寸帧确认黑士5进4至d7，红车七平三至g8，继续攻击黑7路马。",
+      "course_endpoint": "book",
+      "provenance": "course_video",
+      "uncertainties": [],
+      "verification": {
+        "video_checked": true,
+        "legal_moves_checked": true,
+        "fen_checked": true,
+        "reviewer_checked": false
+      },
+      "complete": true
+    },
+    {
+      "variation_id": "HDQ-C16-17",
+      "course_id": "C16",
+      "title": "黑炮2进2设置打车打象陷阱",
+      "parent_variation_id": "HDQ-C16-15",
+      "parent_ply": 11,
+      "source_start": "10:58",
+      "source_end": "11:10",
+      "start_fen": "r1b1kabr1/2R1a4/1cn1c1n2/p1p1p1p1p/9/9/P1P1P1P1P/1C2C1N2/9/RNBAKAB2 b - - 11 6",
+      "end_fen": "r1b1kabr1/2R1a4/2n1c1n2/p1p1p1p1p/1c7/9/P1P1P1P1P/1C2C1N2/9/RNBAKAB2 w - - 12 7",
+      "moves": [
+        {
+          "chinese": "炮二进二",
+          "ucci": "b7b5",
+          "fen": "r1b1kabr1/2R1a4/2n1c1n2/p1p1p1p1p/1c7/9/P1P1P1P1P/1C2C1N2/9/RNBAKAB2 w - - 12 7",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        }
+      ],
+      "source_quote": "在这个局面下，黑方也有一个巧手……给红方设计一个小小的陷阱，你不敢吃，你吃就平炮打车打象。",
+      "source_explanation": "陷阱共同节点，黑炮由b7进至b5。",
+      "course_endpoint": "book",
+      "provenance": "course_video",
+      "uncertainties": [],
+      "verification": {
+        "video_checked": true,
+        "legal_moves_checked": true,
+        "fen_checked": true,
+        "reviewer_checked": false
+      },
+      "complete": true
+    },
+    {
+      "variation_id": "HDQ-C16-18",
+      "course_id": "C16",
+      "title": "红贪吃马，黑炮2平3打车打象",
+      "parent_variation_id": "HDQ-C16-17",
+      "parent_ply": 12,
+      "source_start": "11:04",
+      "source_end": "11:10",
+      "start_fen": "r1b1kabr1/2R1a4/2n1c1n2/p1p1p1p1p/1c7/9/P1P1P1P1P/1C2C1N2/9/RNBAKAB2 w - - 12 7",
+      "end_fen": "r1b1kabr1/4a4/2R1c1n2/p1p1p1p1p/2c6/9/P1P1P1P1P/1C2C1N2/9/RNBAKAB2 w - - 1 8",
+      "moves": [
+        {
+          "chinese": "车七退一",
+          "ucci": "c8c7",
+          "fen": "r1b1kabr1/4a4/2R1c1n2/p1p1p1p1p/1c7/9/P1P1P1P1P/1C2C1N2/9/RNBAKAB2 b - - 0 7",
+          "captured": "n",
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        },
+        {
+          "chinese": "炮二平三",
+          "ucci": "b5c5",
+          "fen": "r1b1kabr1/4a4/2R1c1n2/p1p1p1p1p/2c6/9/P1P1P1P1P/1C2C1N2/9/RNBAKAB2 w - - 1 8",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        }
+      ],
+      "source_quote": "你不敢吃，你吃就平炮打车打象。",
+      "source_explanation": "视频实际摆出红车七进一吃马、黑炮2平3；黑3卒在c6充当炮架。随后回退展示红方正解。",
+      "course_endpoint": "middlegame",
+      "provenance": "course_video",
+      "uncertainties": [],
+      "verification": {
+        "video_checked": true,
+        "legal_moves_checked": true,
+        "fen_checked": true,
+        "reviewer_checked": false
+      },
+      "complete": true
+    },
+    {
+      "variation_id": "HDQ-C16-19",
+      "course_id": "C16",
+      "title": "红先冲七兵，黑保马后红炮八平七攻马",
+      "parent_variation_id": "HDQ-C16-17",
+      "parent_ply": 12,
+      "source_start": "11:10",
+      "source_end": "11:52",
+      "start_fen": "r1b1kabr1/2R1a4/2n1c1n2/p1p1p1p1p/1c7/9/P1P1P1P1P/1C2C1N2/9/RNBAKAB2 w - - 12 7",
+      "end_fen": "2b1kabr1/1R2a4/r3c1n2/p3p1p1p/1cpn5/9/P3P1P1P/2C1C1N2/9/RNBAKAB2 b - - 3 10",
+      "moves": [
+        {
+          "chinese": "兵七进一",
+          "ucci": "c3c4",
+          "fen": "r1b1kabr1/2R1a4/2n1c1n2/p1p1p1p1p/1c7/2P6/P3P1P1P/1C2C1N2/9/RNBAKAB2 b - - 0 7",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        },
+        {
+          "chinese": "车一进二",
+          "ucci": "a9a7",
+          "fen": "2b1kabr1/2R1a4/r1n1c1n2/p1p1p1p1p/1c7/2P6/P3P1P1P/1C2C1N2/9/RNBAKAB2 w - - 1 8",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        },
+        {
+          "chinese": "兵七进一",
+          "ucci": "c4c5",
+          "fen": "2b1kabr1/2R1a4/r1n1c1n2/p1p1p1p1p/1cP6/9/P3P1P1P/1C2C1N2/9/RNBAKAB2 b - - 0 8",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        },
+        {
+          "chinese": "卒三进一",
+          "ucci": "c6c5",
+          "fen": "2b1kabr1/2R1a4/r1n1c1n2/p3p1p1p/1cp6/9/P3P1P1P/1C2C1N2/9/RNBAKAB2 w - - 0 9",
+          "captured": "P",
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        },
+        {
+          "chinese": "炮八平七",
+          "ucci": "b2c2",
+          "fen": "2b1kabr1/2R1a4/r1n1c1n2/p3p1p1p/1cp6/9/P3P1P1P/2C1C1N2/9/RNBAKAB2 b - - 1 9",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        },
+        {
+          "chinese": "马三进四",
+          "ucci": "c7d5",
+          "fen": "2b1kabr1/2R1a4/r3c1n2/p3p1p1p/1cpn5/9/P3P1P1P/2C1C1N2/9/RNBAKAB2 w - - 2 10",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        },
+        {
+          "chinese": "车七平八",
+          "ucci": "c8b8",
+          "fen": "2b1kabr1/1R2a4/r3c1n2/p3p1p1p/1cpn5/9/P3P1P1P/2C1C1N2/9/RNBAKAB2 b - - 3 10",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        }
+      ],
+      "source_quote": "就是我先拱了七兵，我不吃你……黑方再用车续保……红方再把这个七兵直接就送过去给你吃……然后红方再平七路炮……你的马如果再往上跳，他这个车可以直接平一步。",
+      "source_explanation": "红兵七进一、黑车1进2、红兵再进一送吃、黑卒3进1吃兵、红炮八平七、黑马3进4、红车七平八；与贪吃马反例分开。",
+      "course_endpoint": "middlegame",
+      "provenance": "course_video",
+      "uncertainties": [],
+      "verification": {
+        "video_checked": true,
+        "legal_moves_checked": true,
+        "fen_checked": true,
+        "reviewer_checked": false
+      },
+      "complete": true
+    },
+    {
+      "variation_id": "HDQ-C16-20",
+      "course_id": "C16",
+      "title": "补士后黑马2进1，红单边封锁并兑边卒出车",
+      "parent_variation_id": "HDQ-C16-14",
+      "parent_ply": 9,
+      "source_start": "11:52",
+      "source_end": "13:14",
+      "start_fen": "rnb1kabr1/3Ra4/1c2c1n2/p1p1p1p1p/9/9/P1P1P1P1P/1C2C1N2/9/RNBAKAB2 b - - 9 5",
+      "end_fen": "r1b1kab2/1R2a4/n2cc1n2/2p1p1p1p/7r1/RN7/2P1P1P1P/1C2C1N2/9/2BAKAB2 b - - 0 10",
+      "moves": [
+        {
+          "chinese": "马二进一",
+          "ucci": "b9a7",
+          "fen": "r1b1kabr1/3Ra4/nc2c1n2/p1p1p1p1p/9/9/P1P1P1P1P/1C2C1N2/9/RNBAKAB2 w - - 10 6",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        },
+        {
+          "chinese": "车六平八",
+          "ucci": "d8b8",
+          "fen": "r1b1kabr1/1R2a4/nc2c1n2/p1p1p1p1p/9/9/P1P1P1P1P/1C2C1N2/9/RNBAKAB2 b - - 11 6",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        },
+        {
+          "chinese": "炮二平四",
+          "ucci": "b7d7",
+          "fen": "r1b1kabr1/1R2a4/n2cc1n2/p1p1p1p1p/9/9/P1P1P1P1P/1C2C1N2/9/RNBAKAB2 w - - 12 7",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        },
+        {
+          "chinese": "兵九进一",
+          "ucci": "a3a4",
+          "fen": "r1b1kabr1/1R2a4/n2cc1n2/p1p1p1p1p/9/P8/2P1P1P1P/1C2C1N2/9/RNBAKAB2 b - - 0 7",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        },
+        {
+          "chinese": "车八进四",
+          "ucci": "h9h5",
+          "fen": "r1b1kab2/1R2a4/n2cc1n2/p1p1p1p1p/7r1/P8/2P1P1P1P/1C2C1N2/9/RNBAKAB2 w - - 1 8",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        },
+        {
+          "chinese": "马八进九",
+          "ucci": "b0a2",
+          "fen": "r1b1kab2/1R2a4/n2cc1n2/p1p1p1p1p/7r1/P8/2P1P1P1P/NC2C1N2/9/R1BAKAB2 b - - 2 8",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        },
+        {
+          "chinese": "卒一进一",
+          "ucci": "a6a5",
+          "fen": "r1b1kab2/1R2a4/n2cc1n2/2p1p1p1p/p6r1/P8/2P1P1P1P/NC2C1N2/9/R1BAKAB2 w - - 0 9",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        },
+        {
+          "chinese": "马九进八",
+          "ucci": "a2b4",
+          "fen": "r1b1kab2/1R2a4/n2cc1n2/2p1p1p1p/p6r1/PN7/2P1P1P1P/1C2C1N2/9/R1BAKAB2 b - - 1 9",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        },
+        {
+          "chinese": "卒一进一",
+          "ucci": "a5a4",
+          "fen": "r1b1kab2/1R2a4/n2cc1n2/2p1p1p1p/7r1/pN7/2P1P1P1P/1C2C1N2/9/R1BAKAB2 w - - 0 10",
+          "captured": "P",
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        },
+        {
+          "chinese": "车九进四",
+          "ucci": "a0a4",
+          "fen": "r1b1kab2/1R2a4/n2cc1n2/2p1p1p1p/7r1/RN7/2P1P1P1P/1C2C1N2/9/2BAKAB2 b - - 0 10",
+          "captured": "p",
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        }
+      ],
+      "source_quote": "就只能跳到边路了……红方有一招叫做单边封锁，就是走车六平八……黑方也只能平炮了……红方可以冲边兵……那黑方要想阻止……就只能走巡河车……红方再走马八进九……你要对卒……我就直接上马，正好把车杀出去，你给我就吃掉。",
+      "source_explanation": "黑炮实际走炮2平4；黑车8进4、红马八进九后，黑卒1进1、红马九进八、黑卒再进吃兵、红车九进四吃回。炮2平3及其他后续只口述。",
+      "course_endpoint": "book",
+      "provenance": "course_video",
+      "uncertainties": [],
+      "verification": {
+        "video_checked": true,
+        "legal_moves_checked": true,
+        "fen_checked": true,
+        "reviewer_checked": false
+      },
+      "complete": true
+    },
+    {
+      "variation_id": "HDQ-C16-21",
+      "course_id": "C16",
+      "title": "黑车8进4巡河车主线",
+      "parent_variation_id": "HDQ-C16-00",
+      "parent_ply": 7,
+      "source_start": "13:14",
+      "source_end": "13:50",
+      "start_fen": "rnbakabr1/9/1c2c1n2/p1p1p1p1p/9/9/P1P1P1P1P/1C2C1N2/3R5/RNBAKAB2 b - - 7 4",
+      "end_fen": "rnbakab2/9/1c2c1n2/p1p1p1p1p/7r1/9/P1P1P1P1P/1C2C1N2/3R5/RNBAKAB2 w - - 8 5",
+      "moves": [
+        {
+          "chinese": "车八进四",
+          "ucci": "h9h5",
+          "fen": "rnbakab2/9/1c2c1n2/p1p1p1p1p/7r1/9/P1P1P1P1P/1C2C1N2/3R5/RNBAKAB2 w - - 8 5",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        }
+      ],
+      "source_quote": "黑方此时走这个车8进4巡河车是比较稳重的……随时可以左车右移来支援自己的右侧。",
+      "source_explanation": "后半课共同父变化；黑车由h9进至h5。",
+      "course_endpoint": "book",
+      "provenance": "course_video",
+      "uncertainties": [],
+      "verification": {
+        "video_checked": true,
+        "legal_moves_checked": true,
+        "fen_checked": true,
+        "reviewer_checked": false
+      },
+      "complete": true
+    },
+    {
+      "variation_id": "HDQ-C16-22",
+      "course_id": "C16",
+      "title": "巡河车后红车六进七，黑马2进3",
+      "parent_variation_id": "HDQ-C16-21",
+      "parent_ply": 8,
+      "source_start": "13:50",
+      "source_end": "14:02",
+      "start_fen": "rnbakab2/9/1c2c1n2/p1p1p1p1p/7r1/9/P1P1P1P1P/1C2C1N2/3R5/RNBAKAB2 w - - 8 5",
+      "end_fen": "r1bakab2/3R5/1cn1c1n2/p1p1p1p1p/7r1/9/P1P1P1P1P/1C2C1N2/9/RNBAKAB2 w - - 10 6",
+      "moves": [
+        {
+          "chinese": "车六进七",
+          "ucci": "d1d8",
+          "fen": "rnbakab2/3R5/1c2c1n2/p1p1p1p1p/7r1/9/P1P1P1P1P/1C2C1N2/9/RNBAKAB2 b - - 9 5",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        },
+        {
+          "chinese": "马二进三",
+          "ucci": "b9c7",
+          "fen": "r1bakab2/3R5/1cn1c1n2/p1p1p1p1p/7r1/9/P1P1P1P1P/1C2C1N2/9/RNBAKAB2 w - - 10 6",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        }
+      ],
+      "source_quote": "这个时候红方再去走车六进七点二路……黑方不用跳边马了，可以直接走马二进三。",
+      "source_explanation": "巡河车对点二路的共同节点。",
+      "course_endpoint": "book",
+      "provenance": "course_video",
+      "uncertainties": [],
+      "verification": {
+        "video_checked": true,
+        "legal_moves_checked": true,
+        "fen_checked": true,
+        "reviewer_checked": false
+      },
+      "complete": true
+    },
+    {
+      "variation_id": "HDQ-C16-23",
+      "course_id": "C16",
+      "title": "红车六平七抓马，黑炮2进2",
+      "parent_variation_id": "HDQ-C16-22",
+      "parent_ply": 10,
+      "source_start": "14:02",
+      "source_end": "14:12",
+      "start_fen": "r1bakab2/3R5/1cn1c1n2/p1p1p1p1p/7r1/9/P1P1P1P1P/1C2C1N2/9/RNBAKAB2 w - - 10 6",
+      "end_fen": "r1bakab2/2R6/2n1c1n2/p1p1p1p1p/1c5r1/9/P1P1P1P1P/1C2C1N2/9/RNBAKAB2 w - - 12 7",
+      "moves": [
+        {
+          "chinese": "车六平七",
+          "ucci": "d8c8",
+          "fen": "r1bakab2/2R6/1cn1c1n2/p1p1p1p1p/7r1/9/P1P1P1P1P/1C2C1N2/9/RNBAKAB2 b - - 11 6",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        },
+        {
+          "chinese": "炮二进二",
+          "ucci": "b7b5",
+          "fen": "r1bakab2/2R6/2n1c1n2/p1p1p1p1p/1c5r1/9/P1P1P1P1P/1C2C1N2/9/RNBAKAB2 w - - 12 7",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        }
+      ],
+      "source_quote": "你再平车抓我的马，黑方就可以走炮二进二了。",
+      "source_explanation": "黑方以巡河炮应付压马，后续比较车1进2和马3退5。",
+      "course_endpoint": "book",
+      "provenance": "course_video",
+      "uncertainties": [],
+      "verification": {
+        "video_checked": true,
+        "legal_moves_checked": true,
+        "fen_checked": true,
+        "reviewer_checked": false
+      },
+      "complete": true
+    },
+    {
+      "variation_id": "HDQ-C16-24",
+      "course_id": "C16",
+      "title": "红兵七进一，黑车1进2保马",
+      "parent_variation_id": "HDQ-C16-23",
+      "parent_ply": 12,
+      "source_start": "14:12",
+      "source_end": "14:22",
+      "start_fen": "r1bakab2/2R6/2n1c1n2/p1p1p1p1p/1c5r1/9/P1P1P1P1P/1C2C1N2/9/RNBAKAB2 w - - 12 7",
+      "end_fen": "2bakab2/2R6/r1n1c1n2/p1p1p1p1p/1c5r1/2P6/P3P1P1P/1C2C1N2/9/RNBAKAB2 w - - 1 8",
+      "moves": [
+        {
+          "chinese": "兵七进一",
+          "ucci": "c3c4",
+          "fen": "r1bakab2/2R6/2n1c1n2/p1p1p1p1p/1c5r1/2P6/P3P1P1P/1C2C1N2/9/RNBAKAB2 b - - 0 7",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        },
+        {
+          "chinese": "车一进二",
+          "ucci": "a9a7",
+          "fen": "2bakab2/2R6/r1n1c1n2/p1p1p1p1p/1c5r1/2P6/P3P1P1P/1C2C1N2/9/RNBAKAB2 w - - 1 8",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        }
+      ],
+      "source_quote": "可是你要拱兵的话……我再走车进二……你这个兵就不能再过河了。这个巡河车起到了防御作用。",
+      "source_explanation": "黑车1进2保马后，黑巡河车在h5控制红兵c4c5的落点；视频未再冲兵。",
+      "course_endpoint": "book",
+      "provenance": "course_video",
+      "uncertainties": [],
+      "verification": {
+        "video_checked": true,
+        "legal_moves_checked": true,
+        "fen_checked": true,
+        "reviewer_checked": false
+      },
+      "complete": true
+    },
+    {
+      "variation_id": "HDQ-C16-25",
+      "course_id": "C16",
+      "title": "红兵七进一，黑马3退5成连环马",
+      "parent_variation_id": "HDQ-C16-23",
+      "parent_ply": 12,
+      "source_start": "14:22",
+      "source_end": "14:50",
+      "start_fen": "r1bakab2/2R6/2n1c1n2/p1p1p1p1p/1c5r1/9/P1P1P1P1P/1C2C1N2/9/RNBAKAB2 w - - 12 7",
+      "end_fen": "r1bakab2/2R1n4/4c1n2/p1p1p1p1p/1c5r1/2P6/P3P1P1P/1C2C1N2/9/RNBAKAB2 w - - 1 8",
+      "moves": [
+        {
+          "chinese": "兵七进一",
+          "ucci": "c3c4",
+          "fen": "r1bakab2/2R6/2n1c1n2/p1p1p1p1p/1c5r1/2P6/P3P1P1P/1C2C1N2/9/RNBAKAB2 b - - 0 7",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        },
+        {
+          "chinese": "马三退五",
+          "ucci": "c7e8",
+          "fen": "r1bakab2/2R1n4/4c1n2/p1p1p1p1p/1c5r1/2P6/P3P1P1P/1C2C1N2/9/RNBAKAB2 w - - 1 8",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        }
+      ],
+      "source_quote": "或者说是我可以走马三退五了……反而可以弄一个连环马。虽然我是个窝心马……",
+      "source_explanation": "画面回退黑车1进2，改走红兵七进一、黑马3退5；炮2平6及退炮打车均为口述后续，未写入。",
+      "course_endpoint": "book",
+      "provenance": "course_video",
+      "uncertainties": [],
+      "verification": {
+        "video_checked": true,
+        "legal_moves_checked": true,
+        "fen_checked": true,
+        "reviewer_checked": false
+      },
+      "complete": true
+    },
+    {
+      "variation_id": "HDQ-C16-26",
+      "course_id": "C16",
+      "title": "巡河车后红车六进六抓炮，黑炮2平3",
+      "parent_variation_id": "HDQ-C16-21",
+      "parent_ply": 8,
+      "source_start": "14:50",
+      "source_end": "15:10",
+      "start_fen": "rnbakab2/9/1c2c1n2/p1p1p1p1p/7r1/9/P1P1P1P1P/1C2C1N2/3R5/RNBAKAB2 w - - 8 5",
+      "end_fen": "rnbakab2/9/2cRc1n2/p1p1p1p1p/7r1/9/P1P1P1P1P/1C2C1N2/9/RNBAKAB2 w - - 10 6",
+      "moves": [
+        {
+          "chinese": "车六进六",
+          "ucci": "d1d7",
+          "fen": "rnbakab2/9/1c1Rc1n2/p1p1p1p1p/7r1/9/P1P1P1P1P/1C2C1N2/9/RNBAKAB2 b - - 9 5",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        },
+        {
+          "chinese": "炮二平三",
+          "ucci": "b7c7",
+          "fen": "rnbakab2/9/2cRc1n2/p1p1p1p1p/7r1/9/P1P1P1P1P/1C2C1N2/9/RNBAKAB2 w - - 10 6",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        }
+      ],
+      "source_quote": "另外你这个车再去进车抓炮，他也不怕了……他就可以走炮2平3了，交给这个二路马保护。",
+      "source_explanation": "黑炮由b7平至c7，受b9马保护；补士打车是后续构思，未实际落子。",
+      "course_endpoint": "book",
+      "provenance": "course_video",
+      "uncertainties": [],
+      "verification": {
+        "video_checked": true,
+        "legal_moves_checked": true,
+        "fen_checked": true,
+        "reviewer_checked": false
+      },
+      "complete": true
+    },
+    {
+      "variation_id": "HDQ-C16-27",
+      "course_id": "C16",
+      "title": "巡河车后红车六进五，黑马2进1",
+      "parent_variation_id": "HDQ-C16-21",
+      "parent_ply": 8,
+      "source_start": "15:10",
+      "source_end": "15:24",
+      "start_fen": "rnbakab2/9/1c2c1n2/p1p1p1p1p/7r1/9/P1P1P1P1P/1C2C1N2/3R5/RNBAKAB2 w - - 8 5",
+      "end_fen": "r1bakab2/9/nc2c1n2/p1pRp1p1p/7r1/9/P1P1P1P1P/1C2C1N2/9/RNBAKAB2 w - - 10 6",
+      "moves": [
+        {
+          "chinese": "车六进五",
+          "ucci": "d1d6",
+          "fen": "rnbakab2/9/1c2c1n2/p1pRp1p1p/7r1/9/P1P1P1P1P/1C2C1N2/9/RNBAKAB2 b - - 9 5",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        },
+        {
+          "chinese": "马二进一",
+          "ucci": "b9a7",
+          "fen": "r1bakab2/9/nc2c1n2/p1pRp1p1p/7r1/9/P1P1P1P1P/1C2C1N2/9/RNBAKAB2 w - - 10 6",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        }
+      ],
+      "source_quote": "那么如果你要走车六进五，他的马还没跳……他有可能跳边马了……这个进车就失去了作用。",
+      "source_explanation": "黑方根据红车位置改跳边马，避免正马受压。",
+      "course_endpoint": "book",
+      "provenance": "course_video",
+      "uncertainties": [],
+      "verification": {
+        "video_checked": true,
+        "legal_moves_checked": true,
+        "fen_checked": true,
+        "reviewer_checked": false
+      },
+      "complete": true
+    },
+    {
+      "variation_id": "HDQ-C16-28",
+      "course_id": "C16",
+      "title": "巡河车后红马八进七，黑马2进3",
+      "parent_variation_id": "HDQ-C16-21",
+      "parent_ply": 8,
+      "source_start": "15:24",
+      "source_end": "15:54",
+      "start_fen": "rnbakab2/9/1c2c1n2/p1p1p1p1p/7r1/9/P1P1P1P1P/1C2C1N2/3R5/RNBAKAB2 w - - 8 5",
+      "end_fen": "r1bakab2/9/1cn1c1n2/p1p1p1p1p/7r1/9/P1P1P1P1P/1CN1C1N2/3R5/R1BAKAB2 w - - 10 6",
+      "moves": [
+        {
+          "chinese": "马八进七",
+          "ucci": "b0c2",
+          "fen": "rnbakab2/9/1c2c1n2/p1p1p1p1p/7r1/9/P1P1P1P1P/1CN1C1N2/3R5/R1BAKAB2 b - - 9 5",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        },
+        {
+          "chinese": "马二进三",
+          "ucci": "b9c7",
+          "fen": "r1bakab2/9/1cn1c1n2/p1p1p1p1p/7r1/9/P1P1P1P1P/1CN1C1N2/3R5/R1BAKAB2 w - - 10 6",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        }
+      ],
+      "source_quote": "接下来红方一般就会选择马八进七了……正常出子，黑方然后再走马二进三。",
+      "source_explanation": "课程后半段主线父变化，后续分红车六进五与车九进一。",
+      "course_endpoint": "book",
+      "provenance": "course_video",
+      "uncertainties": [],
+      "verification": {
+        "video_checked": true,
+        "legal_moves_checked": true,
+        "fen_checked": true,
+        "reviewer_checked": false
+      },
+      "complete": true
+    },
+    {
+      "variation_id": "HDQ-C16-29",
+      "course_id": "C16",
+      "title": "红车六进五压马，黑炮2进2",
+      "parent_variation_id": "HDQ-C16-28",
+      "parent_ply": 10,
+      "source_start": "15:54",
+      "source_end": "16:08",
+      "start_fen": "r1bakab2/9/1cn1c1n2/p1p1p1p1p/7r1/9/P1P1P1P1P/1CN1C1N2/3R5/R1BAKAB2 w - - 10 6",
+      "end_fen": "r1bakab2/9/2n1c1n2/p1pRp1p1p/1c5r1/9/P1P1P1P1P/1CN1C1N2/9/R1BAKAB2 w - - 12 7",
+      "moves": [
+        {
+          "chinese": "车六进五",
+          "ucci": "d1d6",
+          "fen": "r1bakab2/9/1cn1c1n2/p1pRp1p1p/7r1/9/P1P1P1P1P/1CN1C1N2/9/R1BAKAB2 b - - 11 6",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        },
+        {
+          "chinese": "炮二进二",
+          "ucci": "b7b5",
+          "fen": "r1bakab2/9/2n1c1n2/p1pRp1p1p/1c5r1/9/P1P1P1P1P/1CN1C1N2/9/R1BAKAB2 w - - 12 7",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        }
+      ],
+      "source_quote": "红方如果再去进攻……黑方可以走一个炮进二，这个防守非常灵活。",
+      "source_explanation": "黑方以炮2进2防守，并保留后续退炮和平炮调整。",
+      "course_endpoint": "book",
+      "provenance": "course_video",
+      "uncertainties": [],
+      "verification": {
+        "video_checked": true,
+        "legal_moves_checked": true,
+        "fen_checked": true,
+        "reviewer_checked": false
+      },
+      "complete": true
+    },
+    {
+      "variation_id": "HDQ-C16-30",
+      "course_id": "C16",
+      "title": "红车六平七吃卒，黑车1进2保马",
+      "parent_variation_id": "HDQ-C16-29",
+      "parent_ply": 12,
+      "source_start": "16:08",
+      "source_end": "16:35",
+      "start_fen": "r1bakab2/9/2n1c1n2/p1pRp1p1p/1c5r1/9/P1P1P1P1P/1CN1C1N2/9/R1BAKAB2 w - - 12 7",
+      "end_fen": "2bakab2/9/r1n1c1n2/p1R1p1p1p/1c5r1/9/P1P1P1P1P/1CN1C1N2/9/R1BAKAB2 w - - 1 8",
+      "moves": [
+        {
+          "chinese": "车六平七",
+          "ucci": "d6c6",
+          "fen": "r1bakab2/9/2n1c1n2/p1R1p1p1p/1c5r1/9/P1P1P1P1P/1CN1C1N2/9/R1BAKAB2 b - - 0 7",
+          "captured": "p",
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        },
+        {
+          "chinese": "车一进二",
+          "ucci": "a9a7",
+          "fen": "2bakab2/9/r1n1c1n2/p1R1p1p1p/1c5r1/9/P1P1P1P1P/1CN1C1N2/9/R1BAKAB2 w - - 1 8",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        }
+      ],
+      "source_quote": "你要吃我的卒，我就走车进二要保住黑方。",
+      "source_explanation": "红车六平七吃3卒，黑车1进2保马；炮2退3及其他炮位调整只作讲解，未实际落子。",
+      "course_endpoint": "book",
+      "provenance": "course_video",
+      "uncertainties": [],
+      "verification": {
+        "video_checked": true,
+        "legal_moves_checked": true,
+        "fen_checked": true,
+        "reviewer_checked": false
+      },
+      "complete": true
+    },
+    {
+      "variation_id": "HDQ-C16-31",
+      "course_id": "C16",
+      "title": "红车九进一双横车，黑卒3进1",
+      "parent_variation_id": "HDQ-C16-28",
+      "parent_ply": 10,
+      "source_start": "16:35",
+      "source_end": "17:02",
+      "start_fen": "r1bakab2/9/1cn1c1n2/p1p1p1p1p/7r1/9/P1P1P1P1P/1CN1C1N2/3R5/R1BAKAB2 w - - 10 6",
+      "end_fen": "r1bakab2/9/1cn1c1n2/p3p1p1p/2p4r1/9/P1P1P1P1P/1CN1C1N2/R2R5/2BAKAB2 w - - 0 7",
+      "moves": [
+        {
+          "chinese": "车九进一",
+          "ucci": "a0a1",
+          "fen": "r1bakab2/9/1cn1c1n2/p1p1p1p1p/7r1/9/P1P1P1P1P/1CN1C1N2/R2R5/2BAKAB2 b - - 11 6",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        },
+        {
+          "chinese": "卒三进一",
+          "ucci": "c6c5",
+          "fen": "r1bakab2/9/1cn1c1n2/p3p1p1p/2p4r1/9/P1P1P1P1P/1CN1C1N2/R2R5/2BAKAB2 w - - 0 7",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        }
+      ],
+      "source_quote": "红方……比较常见的下法就是走车九进一，来一个双横车……那么接下来黑方可以先拱一个三卒。",
+      "source_explanation": "双横车共同节点；红车由a0进至a1，黑3卒挺起。",
+      "course_endpoint": "book",
+      "provenance": "course_video",
+      "uncertainties": [],
+      "verification": {
+        "video_checked": true,
+        "legal_moves_checked": true,
+        "fen_checked": true,
+        "reviewer_checked": false
+      },
+      "complete": true
+    },
+    {
+      "variation_id": "HDQ-C16-32",
+      "course_id": "C16",
+      "title": "双横车攻马，黑飞边象并车1平3保马",
+      "parent_variation_id": "HDQ-C16-31",
+      "parent_ply": 12,
+      "source_start": "17:02",
+      "source_end": "17:25",
+      "start_fen": "r1bakab2/9/1cn1c1n2/p3p1p1p/2p4r1/9/P1P1P1P1P/1CN1C1N2/R2R5/2BAKAB2 w - - 0 7",
+      "end_fen": "2rakab2/9/bcn1c1n2/p2Rp1p1p/2p4r1/9/P1P1P1P1P/1CN1C1N2/5R3/2BAKAB2 w - - 4 9",
+      "moves": [
+        {
+          "chinese": "车六进五",
+          "ucci": "d1d6",
+          "fen": "r1bakab2/9/1cn1c1n2/p2Rp1p1p/2p4r1/9/P1P1P1P1P/1CN1C1N2/R8/2BAKAB2 b - - 1 7",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        },
+        {
+          "chinese": "象三进一",
+          "ucci": "c9a7",
+          "fen": "r2akab2/9/bcn1c1n2/p2Rp1p1p/2p4r1/9/P1P1P1P1P/1CN1C1N2/R8/2BAKAB2 w - - 2 8",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        },
+        {
+          "chinese": "车九平四",
+          "ucci": "a1f1",
+          "fen": "r2akab2/9/bcn1c1n2/p2Rp1p1p/2p4r1/9/P1P1P1P1P/1CN1C1N2/5R3/2BAKAB2 b - - 3 8",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        },
+        {
+          "chinese": "车一平三",
+          "ucci": "a9c9",
+          "fen": "2rakab2/9/bcn1c1n2/p2Rp1p1p/2p4r1/9/P1P1P1P1P/1CN1C1N2/5R3/2BAKAB2 w - - 4 9",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        }
+      ],
+      "source_quote": "将来两个车齐进攻，车六进五，再车九平四……红方进车抓马，黑方也不用怕，黑方可以飞边象……用你车保住，将来黑方再补士。",
+      "source_explanation": "视频依次为车六进五、象3进1、车九平四、车1平3保马；车四进五及补士续着未落子，不延长课程终点。",
+      "course_endpoint": "middlegame",
+      "provenance": "course_video",
+      "uncertainties": [],
+      "verification": {
+        "video_checked": true,
+        "legal_moves_checked": true,
+        "fen_checked": true,
+        "reviewer_checked": false
+      },
+      "complete": true
+    },
+    {
+      "variation_id": "HDQ-C16-33",
+      "course_id": "C16",
+      "title": "黑再出横车，红车一平六抢占要道",
+      "parent_variation_id": "HDQ-C16-00",
+      "parent_ply": 5,
+      "source_start": "01:02",
+      "source_end": "01:46",
+      "start_fen": "rnbakab1r/9/1c2c1n2/p1p1p1p1p/9/9/P1P1P1P1P/1C2C1N2/8R/RNBAKAB2 b - - 5 3",
+      "end_fen": "rnbakab2/5r3/1c2c1n2/p1p1p1p1p/9/9/P1P1P1P1P/1C2C1N2/3R5/RNBAKAB2 w - - 8 5",
+      "moves": [
+        {
+          "chinese": "车九进一",
+          "ucci": "i9i8",
+          "fen": "rnbakab2/8r/1c2c1n2/p1p1p1p1p/9/9/P1P1P1P1P/1C2C1N2/8R/RNBAKAB2 w - - 6 4",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        },
+        {
+          "chinese": "车一平六",
+          "ucci": "i1d1",
+          "fen": "rnbakab2/8r/1c2c1n2/p1p1p1p1p/9/9/P1P1P1P1P/1C2C1N2/3R5/RNBAKAB2 b - - 7 4",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        },
+        {
+          "chinese": "车九平六",
+          "ucci": "i8f8",
+          "fen": "rnbakab2/5r3/1c2c1n2/p1p1p1p1p/9/9/P1P1P1P1P/1C2C1N2/3R5/RNBAKAB2 w - - 8 5",
+          "captured": null,
+          "check": "",
+          "comment": null,
+          "provenance": "course_video"
+        }
+      ],
+      "source_quote": "那此时黑棋就只能出直车了，如果黑方再出横车意义就不大了……黑方这个九路车，就只能占领六路线了，也就是我们的四路线。",
+      "source_explanation": "父变化取共同起点前5着，即红车一进一后；画面实际演示黑车9进1、红车一平六、黑车9平6，随后回退到黑直车主线。",
+      "course_endpoint": "book",
+      "provenance": "course_video",
+      "uncertainties": [],
+      "verification": {
+        "video_checked": true,
+        "legal_moves_checked": true,
+        "fen_checked": true,
+        "reviewer_checked": false
+      },
+      "complete": true
+    }
+  ],
+  "pending_demonstrations": []
+}

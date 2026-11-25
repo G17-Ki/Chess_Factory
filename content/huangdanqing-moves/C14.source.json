@@ -1,0 +1,347 @@
+{
+  "course_id": "C14",
+  "title": "中炮进三兵阵势转换",
+  "opening_node_ids": [
+    "ZP-PFM-JSB",
+    "ZP-PFM-JSB-SBH",
+    "ZP-PFM-JSB-ZCJSZ"
+  ],
+  "status": "in_progress",
+  "source": {
+    "transcript": "/mnt/c/Users/260010122/Desktop/Gaoyq工作/象棋课程/文字提取/14、中炮进三兵阵势转换_原文.md",
+    "video": "/mnt/c/Users/260010122/Desktop/Gaoyq工作/象棋课程/1.布局一点通/14、中炮进三兵阵势转换.mp4",
+    "video_format": "MPEG-TS / H.264 / AAC（文件扩展名为 .mp4）",
+    "video_review": "本轮已按转录分段并抽取课程关键帧；逐着视频复核尚未全部完成，未核分支video_checked=false且complete=false。",
+    "engine_evaluation": "未运行 Pikafish，无引擎评分"
+  },
+  "pending_demonstrations": [
+    "三步虎红车一进一后黑巡河车兑兵的完整对比。",
+    "五八炮主线黑象3进5或炮2进2后红车八进四、兑七兵、打象交换及车一进一的完整续段。",
+    "直车进3卒五八炮线红炮打卒、黑马3进2、进车抓炮及炮打中卒后的完整攻防。",
+    "五七炮主线黑马3进2后红车九进一、马三进四，黑挺边卒或飞象及红保边兵的续段。"
+  ],
+  "variations": [
+    {
+      "variation_id": "HDQ-C14-00",
+      "title": "中炮强挺三兵共同起点",
+      "parent_variation_id": null,
+      "source_start": "00:29",
+      "source_end": "00:59",
+      "moves": [
+        "h2e2",
+        "h9g7",
+        "g3g4",
+        "i9h9",
+        "h0g2"
+      ],
+      "source_quote": "红方炮二平五，黑马八进七，红方兵三进一……黑方必然出子车九平八，红方马二进三。",
+      "source_explanation": "红第二步强挺三兵，黑出直车，分红三步虎与直车进3卒两大结构；00:45–01:15画面已核。",
+      "course_endpoint": "book",
+      "provenance": "course_video",
+      "uncertainties": [],
+      "verification": {
+        "video_checked": true,
+        "reviewer_checked": false
+      },
+      "complete": true
+    },
+    {
+      "variation_id": "HDQ-C14-01",
+      "title": "黑三步虎与红车一进一偏慢",
+      "parent_variation_id": "HDQ-C14-00",
+      "source_start": "01:52",
+      "source_end": "02:51",
+      "moves": [
+        "h7i7",
+        "i0i1",
+        "h9h5"
+      ],
+      "source_quote": "黑方此时走这个炮八平九平炮亮车……如果出横车……黑方就可以立刻走巡河车。",
+      "source_explanation": "黑炮8平9三步虎，红车一进一，黑车8进4巡河，准备兑兵活马；02:50画面确认黑车位于h5。",
+      "course_endpoint": "middlegame",
+      "provenance": "course_video",
+      "uncertainties": ["巡河后的兑兵过程尚未补齐。"],
+      "verification": {
+        "video_checked": true,
+        "reviewer_checked": false
+      },
+      "complete": true
+    },
+    {
+      "variation_id": "HDQ-C14-02",
+      "title": "三步虎后红兵七进一、黑卒3进1送卒",
+      "parent_variation_id": "HDQ-C14-00",
+      "source_start": "03:59",
+      "source_end": "05:52",
+      "moves": [
+        "h7i7",
+        "c3c4",
+        "c6c5",
+        "c4c5",
+        "h9h5",
+        "c5c6",
+        "h5c5"
+      ],
+      "source_quote": "黑方他不走炮二平三，直接走这个卒三进一……你有拱掉，我再进去抓……但如果你要是不对车继续拱兵的话，那我就平车抓你。",
+      "source_explanation": "黑先送3卒，红兵七进一吃卒，黑车8进4抓兵；红兵继续冲，黑车8平3同时攻击红兵和底相。",
+      "course_endpoint": "middlegame",
+      "provenance": "course_transcript",
+      "uncertainties": [],
+      "verification": {
+        "video_checked": false,
+        "reviewer_checked": false
+      },
+      "complete": false
+    },
+    {
+      "variation_id": "HDQ-C14-03",
+      "title": "三步虎兵七进一与黑炮2平3",
+      "parent_variation_id": "HDQ-C14-00",
+      "source_start": "03:13",
+      "source_end": "03:59",
+      "moves": [
+        "h7i7",
+        "c3c4",
+        "b7c7",
+        "b0c2",
+        "c6c5",
+        "c2d4",
+        "c5c4",
+        "d4e6",
+        "c9e7"
+      ],
+      "source_quote": "黑方此时可以选择炮二平三卒底炮，限制你跳马……如果你要是强行跳马，他就冲三卒。",
+      "source_explanation": "03:30–04:05画面确认黑炮2平3、红马八进七、黑卒3进1、红马七进六、黑卒再吃七兵、红马六进五吃中卒、黑象3进5。",
+      "course_endpoint": "middlegame",
+      "provenance": "course_video",
+      "uncertainties": [],
+      "verification": {
+        "video_checked": true,
+        "reviewer_checked": false
+      },
+      "complete": true
+    },
+    {
+      "variation_id": "HDQ-C14-04",
+      "title": "红马八进七五八炮基本形",
+      "parent_variation_id": "HDQ-C14-00",
+      "source_start": "05:52",
+      "source_end": "07:26",
+      "moves": [
+        "h7i7",
+        "b0c2",
+        "c6c5",
+        "b2b6",
+        "b9c7",
+        "a0b0"
+      ],
+      "source_quote": "红方先跳正马……黑方就会把这个三路卒给拱起来……红方最常见的一种攻法就是五八炮，炮八进四……黑方现在一般会选择马二进三……下一步把这个九路车再亮出来。",
+      "source_explanation": "红马八进七，黑卒3进1，红炮八进四，黑马2进3，红车九平八；06:50–07:05画面已核。",
+      "course_endpoint": "book",
+      "provenance": "course_video",
+      "uncertainties": [],
+      "verification": {
+        "video_checked": true,
+        "reviewer_checked": false
+      },
+      "complete": true
+    },
+    {
+      "variation_id": "HDQ-C14-05",
+      "title": "五八炮后黑象3进5与双方巡河车",
+      "parent_variation_id": "HDQ-C14-04",
+      "source_start": "07:26",
+      "source_end": "08:22",
+      "moves": [
+        "c9e7",
+        "b0b4",
+        "h9h5"
+      ],
+      "source_quote": "炮二进二、象三进五……飞象红方就要走八路军……红方一般会走车八进四……黑方他也不着急对车，他一般会选择一个巡河车。",
+      "source_explanation": "黑象3进5，红车八进四，黑车8进4巡河，准备兑兵；07:35–07:50画面确认黑车位于h5。",
+      "course_endpoint": "middlegame",
+      "provenance": "course_video",
+      "uncertainties": ["后续兑七兵、车一进一及无车棋续段尚未补齐。"],
+      "verification": {
+        "video_checked": true,
+        "reviewer_checked": false
+      },
+      "complete": true
+    },
+    {
+      "variation_id": "HDQ-C14-06",
+      "title": "黑车1平2、红炮八平七与黑炮2进2",
+      "parent_variation_id": "HDQ-C14-04",
+      "source_start": "07:05",
+      "source_end": "07:26",
+      "moves": [
+        "a9b9",
+        "b6c6",
+        "b7b5",
+        "c6c9"
+      ],
+      "source_quote": "下一步把这个九路车再亮出来……如果你要是走炮二进二……打完之后，这个炮有马保护它有根儿。",
+      "source_explanation": "07:05–07:20画面依次确认黑车1平2、红炮八平七、黑炮2进2及红炮七进三打象；先平炮离开b线后，黑炮才能进二。打象后的交换归入口述续段缺口。",
+      "course_endpoint": "middlegame",
+      "provenance": "course_video",
+      "uncertainties": ["红炮打象后的兑子与车八进四主线关系仍需逐帧复核。"],
+      "verification": {
+        "video_checked": true,
+        "reviewer_checked": false
+      },
+      "complete": true
+    },
+    {
+      "variation_id": "HDQ-C14-07",
+      "title": "直车进3卒与红马八进九、黑卒1进1",
+      "parent_variation_id": "HDQ-C14-00",
+      "source_start": "09:11",
+      "source_end": "10:43",
+      "moves": [
+        "c6c5",
+        "i0h0",
+        "b9c7",
+        "b0a2",
+        "a6a5"
+      ],
+      "source_quote": "直接走卒三进一，那红方再车一平二出直车……红方一般会选择走马八进九跳边马……黑方一般会选择走卒一进一。",
+      "source_explanation": "黑卒3进1、红车一平二、黑马2进3、红马八进九、黑卒1进1，构成后续三种炮阵共同父变化。",
+      "course_endpoint": "book",
+      "provenance": "course_transcript",
+      "uncertainties": [],
+      "verification": {
+        "video_checked": false,
+        "reviewer_checked": false
+      },
+      "complete": false
+    },
+    {
+      "variation_id": "HDQ-C14-08",
+      "title": "直车进3卒五八炮与黑象7进5",
+      "parent_variation_id": "HDQ-C14-07",
+      "source_start": "10:43",
+      "source_end": "11:44",
+      "moves": [
+        "b2b6",
+        "g9e7"
+      ],
+      "source_quote": "一种就是五八炮……黑方可以先飞个象……因为我飞的是七路象，你这个三路炮的威力就小很多。",
+      "source_explanation": "红炮八进四，黑象7进5，降低红炮平三后的底线牵制。",
+      "course_endpoint": "middlegame",
+      "provenance": "course_transcript",
+      "uncertainties": [],
+      "verification": {
+        "video_checked": false,
+        "reviewer_checked": false
+      },
+      "complete": false
+    },
+    {
+      "variation_id": "HDQ-C14-09",
+      "title": "直车进3卒五七炮与黑马3进2封车",
+      "parent_variation_id": "HDQ-C14-07",
+      "source_start": "11:44",
+      "source_end": "12:57",
+      "moves": [
+        "b2c2",
+        "c7b5"
+      ],
+      "source_quote": "红方除了这个五八炮进攻，还有走这个五七炮……黑方就必须要走马三进二封锁红方的九路车。",
+      "source_explanation": "红炮八平七，黑马3进2封住红左车直出。",
+      "course_endpoint": "book",
+      "provenance": "course_transcript",
+      "uncertainties": [],
+      "verification": {
+        "video_checked": false,
+        "reviewer_checked": false
+      },
+      "complete": false
+    },
+    {
+      "variation_id": "HDQ-C14-10",
+      "title": "五七炮后红车九进一、马三进四与黑飞象",
+      "parent_variation_id": "HDQ-C14-09",
+      "source_start": "12:57",
+      "source_end": "13:44",
+      "moves": [
+        "a0a1",
+        "c9e7",
+        "g2f4"
+      ],
+      "source_quote": "黑马三进二之后……红方必然要走车九进一出横车……另外黑方也可以先飞一个象，那你要飞象的话，红方就是上马进攻了。",
+      "source_explanation": "红车九进一，黑象3进5，红马三进四攻击中路。",
+      "course_endpoint": "middlegame",
+      "provenance": "course_transcript",
+      "uncertainties": [],
+      "verification": {
+        "video_checked": false,
+        "reviewer_checked": false
+      },
+      "complete": false
+    },
+    {
+      "variation_id": "HDQ-C14-11",
+      "title": "五七炮后黑挺边卒出车",
+      "parent_variation_id": "HDQ-C14-09",
+      "source_start": "12:57",
+      "source_end": "13:44",
+      "moves": [
+        "a0a1",
+        "a5a4"
+      ],
+      "source_quote": "一个就是拱边卒，把这个车杀出来。红方保住个兵，下步车九平四、马三进四。",
+      "source_explanation": "红车九进一，黑卒1进1；红方具体保兵着法及后续车九平四、马三进四待视频确认。",
+      "course_endpoint": "middlegame",
+      "provenance": "course_transcript",
+      "uncertainties": [],
+      "verification": {
+        "video_checked": false,
+        "reviewer_checked": false
+      },
+      "complete": false
+    },
+    {
+      "variation_id": "HDQ-C14-12",
+      "title": "直车进3卒五六炮与黑炮8进2封车",
+      "parent_variation_id": "HDQ-C14-07",
+      "source_start": "14:31",
+      "source_end": "16:07",
+      "moves": [
+        "b2d2",
+        "h7h5"
+      ],
+      "source_quote": "还有一种阵势就是五六炮……黑方他有一招棋就是走这个炮八进二……不让你出车。",
+      "source_explanation": "红炮八平六，黑炮8进2封车，同时防止红车二进六。",
+      "course_endpoint": "book",
+      "provenance": "course_transcript",
+      "uncertainties": [],
+      "verification": {
+        "video_checked": false,
+        "reviewer_checked": false
+      },
+      "complete": false
+    },
+    {
+      "variation_id": "HDQ-C14-13",
+      "title": "五六炮后黑马3进2封车不合适",
+      "parent_variation_id": "HDQ-C14-07",
+      "source_start": "14:31",
+      "source_end": "15:13",
+      "moves": [
+        "b2d2",
+        "c7b5",
+        "d2d5"
+      ],
+      "source_quote": "如果红方走五六炮，黑方就不能走马三进二了……他这个六路炮会进炮打你。",
+      "source_explanation": "黑机械马3进2，红炮六进三至d5，借黑3卒为炮架攻击b5黑马。",
+      "course_endpoint": "middlegame",
+      "provenance": "course_transcript",
+      "uncertainties": [],
+      "verification": {
+        "video_checked": false,
+        "reviewer_checked": false
+      },
+      "complete": false
+    }
+  ]
+}
